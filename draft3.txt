@@ -1,0 +1,1634 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>»ª±¦±êÆÕÓÍÆøÉÏÓÎ¹ÉÆ±(QDII-LOF)(162411)ÀúÊ·½»Ò×_ÐÂÀË²Æ¾­_ÐÂÀËÍø</title>
+<meta content="»ª±¦±êÆÕÓÍÆøÉÏÓÎ¹ÉÆ±(QDII-LOF)ÀúÊ·½»Ò×,162411ÀúÊ·½»Ò×,ÐÂÀË²Æ¾­»ª±¦±êÆÕÓÍÆøÉÏÓÎ¹ÉÆ±(QDII-LOF)(162411)ÀúÊ·½»Ò×" name="Keywords"/>
+<meta content="ÐÂÀË²Æ¾­»ª±¦±êÆÕÓÍÆøÉÏÓÎ¹ÉÆ±(QDII-LOF)(162411)ÐÐÇéÖÐÐÄ,ÎªÄúÌá¹©»ª±¦±êÆÕÓÍÆøÉÏÓÎ¹ÉÆ±(QDII-LOF)(162411)ÀúÊ·½»Ò×ÐÅÏ¢Êý¾Ý²éÑ¯." name="Description"/>
+<link href="/corp/view/css/newstyle.css" media="all" rel="stylesheet"/>
+<link href="/corp/view/css/tables.css" media="all" rel="stylesheet"/>
+<link href="/corp/view/css/style4.css" media="all" rel="stylesheet"/>
+<style type="text/css">
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div{margin:0;padding:0;border:0;}
+body,ul,ol,li,p,form,fieldset,table,td{font-family:"ËÎÌå";}
+body{background:#fff;color:#000;}
+td,p,li,select,input,textarea,div{font-size:12px;}
+
+ul{list-style-type:none;}
+select,input{vertical-align:middle; padding:0; margin:0;}
+
+.f14 {font-size:14px;}
+.lh20 {line-height:20px;}
+.lh23{line-height:23px;}
+.b1{border:1px #fcc solid;}
+
+a{text-decoration: none;color:#009}
+a:visited{color:#333333;}
+a:hover{color:#f00;}
+
+.f14links{line-height:23px;}
+.f14links,.f14links a{font-size:14px;color:#009;}
+.f14links a:hover{color:#F00;}
+.f14links li{padding-left:13px;background:url(http://image2.sina.com.cn/dy/legal/2006index/news_law_hz_012.gif) no-repeat 3px 45%;}
+
+.clearit{clear:both;font-size:0;line-height:0;height:0;}
+.STYLE2 {font-size: 14px; font-weight: bold; }
+
+/*¶Å°î·ÖÎöÓÃµ½µÄcss begin*/
+.bottom_line {border-bottom:1px solid #999999}
+.f14 {font-size:14px}
+.f12 {font-size:12px}
+
+.l15{line-height:150%}
+.l13{line-height:130%}
+.lh19{line-height:19px;}
+/*¶Å°î·ÖÎöÓÃµ½µÄcss end*/
+</style>
+<!--[if IE]>
+<link media="all" rel="stylesheet" href="http://www.sinaimg.cn/cj/realstock/css/ie.css" />
+<![endif]-->
+<link href="http://n.sinaimg.cn/finance/dbfx/style.css?201808080808" rel="stylesheet"/>
+<script language="javascript" type="text/javascript">
+<!--//--><![CDATA[//><!--
+var fullcode="sz162411";
+var chart_img_alt = "»ª±¦±êÆÕÓÍÆøÉÏÓÎ¹ÉÆ±(QDII-LOF) 162411 ÐÐÇéÍ¼";
+
+/* comment */
+var cmnt_channel	= "gg";
+var cmnt_newsid		= "sz-162411";
+var cmnt_group		= 1;
+
+var detailcache = new Array();
+//--><!]]>
+</script>
+<script src="/corp/view/js/all.js" type="text/javascript"></script>
+<script src="/corp/view/js/tables.js" type="text/javascript"></script>
+<script src="http://finance.sina.com.cn/realstock/company/sz162411/jsvar.js" type="text/javascript"></script>
+<script src="script/hangqing.js" type="text/javascript"></script>
+<script src="http://finance.sina.com.cn/iframe/hot_stock_list.js" type="text/javascript"></script>
+<script src="http://finance.sina.com.cn/realstock/company/hotstock_daily_a.js" type="text/javascript"></script>
+<script src="http://hq.sinajs.cn/list=sz162411,s_sh000001,s_sh000300,s_sz399001,s_sz399106,s_sz395099" type="text/javascript"></script>
+<script src="http://image2.sina.com.cn/home/sinaflash.js" type="text/javascript"></script>
+<script src="/corp/view/js/corp_fenshi.js?date=20180123" type="text/javascript"></script>
+</head>
+<body>
+<div id="wrap">
+<!-- ±ê×¼¶þ¼¶µ¼º½_²Æ¾­ begin -->
+<style type="text/css">
+.secondaryHeader{height:33px;overflow:hidden;background:url(http://i2.sinaimg.cn/dy/images/header/2008/standardl2nav_bg.gif) repeat-x #fff;color:#000;font-size:12px;font-weight:100;}
+.secondaryHeader a,.secondaryHeader a:visited{color:#000;text-decoration:none;}
+.secondaryHeader a:hover,.secondaryHeader a:active{color:#c00;text-decoration:underline;}
+.sHBorder{border:1px #e3e3e3 solid;padding:0 10px 0 12px;overflow:hidden;zoom:1;}
+.sHLogo{float:left;height:31px;line-height:31px;overflow:hidden;}
+.sHLogo span,.sHLogo span a,.sHLogo span a:link,.sHLogo span a:visited,.sHLogo span a:hover{display:block;*float:left;display:table-cell;vertical-align:middle;*display:block;*font-size:27px;*font-family:Arial;height:31px;}
+.sHLogo span,.sHLogo span a img,.sHLogo span a:link img,.sHLogo span a:visited img,.sHLogo span a:hover img{vertical-align:middle;}
+.sHLinks{float:right;line-height:31px;}
+#level2headerborder{background:#fff; height:5px; overflow:hidden; clear:both; width:950px;}
+</style>
+<div id="level2headerborder"></div>
+<div class="secondaryHeader">
+<div class="sHBorder">
+<div class="sHLogo"><span><a href="http://www.sina.com.cn/"><img alt="ÐÂÀËÍø" src="http://i1.sinaimg.cn/dy/images/header/2009/standardl2nav_sina_new.gif"/></a><a href="http://finance.sina.com.cn/"><img alt="ÐÂÀË²Æ¾­" src="http://i1.sinaimg.cn/dy/images/header/2009/standardl2nav_finance.gif"/></a></span></div>
+<div class="sHLinks"><a href="http://finance.sina.com.cn/">²Æ¾­Ê×Ò³</a> | <a href="http://www.sina.com.cn/">ÐÂÀËÊ×Ò³</a> | <a href="http://news.sina.com.cn/guide/">ÐÂÀËµ¼º½</a></div>
+</div>
+</div>
+<div id="level2headerborder"></div>
+<!-- ±ê×¼¶þ¼¶µ¼º½_²Æ¾­ end -->
+<!-- banner begin -->
+<div style="float:left; width:950px;">
+<!-- ¶¥²¿¹ã¸æÎ» begin -->
+<div style="float:left; width:750px; height:90px;">
+<iframe frameborder="0" height="90" marginheight="0" marginwidth="0" scrolling="no" src="http://finance.sina.com.cn/iframe/ad/PDPS000000004094.html" width="750"></iframe><!--<script type="text/javascript" src="http://finance.sina.com.cn/pdps/js/PDPS000000004094.js"></script> -->
+</div>
+<!-- ¶¥²¿¹ã¸æÎ» end -->
+<div style="float:right;width:188px; height:88px; border:1px solid #DEDEDE;">
+<ul>
+<li style="background:url(http://www.sinaimg.cn/bb/article/con_ws_001.gif);line-height:15px;text-align:center;color:#F00">ÈÈµãÍÆ¼ö</li>
+<li style="line-height:20px; margin-top:5px;">¡¤<a href="http://watchlist.finance.sina.com.cn/portfolio/view/main.php" style="color:#F00">×ÔÑ¡¹É-ÇáËÉ¹ÜÀíÄúµÄÇ§Ö»¹ÉÆ±</a></li>
+<li style="line-height:20px;">¡¤<a href="http://finance.sina.com.cn/money/mall.shtml">½ðÈÚeÂ·Í¨-Àí²ÆÍ¶×Ê¸üÇáËÉ</a></li>
+<li style="line-height:20px;">¡¤<a href="http://biz.finance.sina.com.cn/hq/">ÐÐÇéÖÐÐÄ-Í¨Íù²Æ¸»Ö®ÃÅ</a></li>
+</ul>
+</div>
+<div style="clear:both"></div>
+</div>
+<!-- banner end -->
+<div class="HSpace-1-5"></div>
+<!-- µ¼º½ begin -->
+<div class="nav">
+<ul>
+<li class="navRedLi"><a href="http://finance.sina.com.cn/" target="_blank">²Æ¾­Ê×Ò³</a></li>
+<li id="nav01"><a href="http://finance.sina.com.cn/stock/index.shtml" target="_blank">¹ÉÆ±</a></li>
+<li id="nav02"><a href="http://finance.sina.com.cn/fund/index.shtml" target="_blank">»ù½ð</a></li>
+<li id="nav03"><a href="http://finance.sina.com.cn/stock/roll.shtml" target="_blank">¹ö¶¯</a></li>
+<li id="nav04"><a href="http://vip.stock.finance.sina.com.cn/corp/view/vCB_BulletinGather.php" target="_blank">¹«¸æ</a></li>
+<li id="nav05"><a href="http://finance.sina.com.cn/column/jsy.html" target="_blank">´óÅÌ</a></li>
+<li id="nav06"><a href="http://finance.sina.com.cn/column/ggdp.html" target="_blank">¸ö¹É</a></li>
+<li id="nav07"><a href="http://finance.sina.com.cn/stock/newstock/index.shtml" target="_blank">ÐÂ¹É</a></li>
+<li id="nav08"><a href="http://finance.sina.com.cn/stock/warrant/index.shtml" target="_blank">È¨Ö¤</a></li>
+<li id="nav09"><a href="http://finance.sina.com.cn/stock/reaserchlist.shtml" target="_blank">±¨¸æ</a></li>
+<li id="nav10"><a href="http://finance.sina.com.cn/money/globalindex/index.shtml" target="_blank">»·ÇòÊÐ³¡</a></li>
+<li class="bloglist" id="nav11" style="position:relative;">²©¿Í<div class="blog_list"><ul><li><a href="http://blog.sina.com.cn/lm/finance/" target="_blank">²Æ¾­²©¿Í</a></li><li><a href="http://blog.sina.com.cn/lm/stock/" target="_blank">¹ÉÆ±²©¿Í</a></li></ul></div></li>
+<li id="nav12"><a href="http://finance.sina.com.cn/bar/" target="_blank">¹ÉÆ±°É</a></li>
+<li id="nav13"><a href="http://finance.sina.com.cn/stock/hkstock/index.shtml" target="_blank">¸Û¹É</a></li>
+<li id="nav14"><a href="http://finance.sina.com.cn/stock/usstock/index.shtml" target="_blank">ÃÀ¹É</a></li>
+<li id="nav15"><a href="http://biz.finance.sina.com.cn/hq/" target="_blank">ÐÐÇéÖÐÐÄ</a></li>
+<li id="nav16"><a href="http://watchlist.finance.sina.com.cn/portfolio/view/main.php" target="_blank">×ÔÑ¡¹É</a></li>
+</ul>
+</div>
+<style>
+.bloglist .blog_list{ display:none; position:absolute; left:-10px; padding:3px 0 0; top:26px; width:70px;}
+.bloglist .blog_list ul{border:solid 1px #a0c3ec; background:#e1eeff; height:auto; }
+.bloglist .blog_list li{text-align:center; font-size:12px; float:none; height:auto; padding:0;}
+.bloglist .blog_list li a, .bloglist .blog_list li a:visited{ display:block; line-height:22px; color:#007;}
+.current  .blog_list{ display:block}
+.bloglist .blog_list li a:hover{color:#fff; background:#4e7fd1;}
+</style>
+<script type="text/javascript">
+	var nav_list=document.getElementById("nav11");
+
+		nav_list.onmouseover=function () {
+			this.className+=' current';
+		}
+		nav_list.onmouseout=function (e) {
+			var e = e || window.event;
+			var relatedNode = e.relatedTarget || e.toElement;
+			while(relatedNode.tagName != 'HTML'){
+				if(this == relatedNode) return;
+				relatedNode = relatedNode.parentNode;
+			}
+			this.className=this.className.replace(/current/gi,'');
+		}
+</script>
+<!-- µ¼º½ end -->
+<!-- µ¼º½ÏÂ begin -->
+<div class="navbtm">
+<div class="navbtmblk1"><span id="idxsh000001"><a href="http://finance.sina.com.cn/realstock/company/sh000001/nc.shtml" target="_blank">ÉÏÖ¤Ö¸Êý</a>: 0000.00¡¡0.00¡¡00.00ÒÚÔª</span>¡¡|¡¡<span id="idxsz399001"><a href="http://finance.sina.com.cn/realstock/company/sz399001/nc.shtml" target="_blank">ÉîÛÚ³ÉÖ¸</a>: 0000.00¡¡0.00¡¡00.00ÒÚÔª</span>¡¡|¡¡<span id="idxsh000300"><a href="http://finance.sina.com.cn/realstock/company/sh000300/nc.shtml" target="_blank">»¦Éî300</a>: 0000.00¡¡0.00¡¡00.00ÒÚÔª</span></div>
+<div class="navbtmmaquee">
+<script src="http://finance.sina.com.cn/286/20061129/3.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+		<!--//--><![CDATA[//><!--
+		if(!document.layers) {
+			with (document.getElementsByTagName("marquee")[0]) {
+				scrollDelay = 50;
+				scrollAmount = 2;
+				onmouseout = function () {
+					this.scrollDelay = 50;
+				};
+			}
+		}
+		//--><!]]>
+	  </script>
+</div>
+</div>
+<!-- µ¼º½ÏÂ end -->
+<div class="HSpace-1-6"></div>
+<div id="main">
+<!-- ×ó²à begin -->
+<div id="left">
+<!-- ×î½ü·ÃÎÊ¹É|ÎÒµÄ×ÔÑ¡¹É begin -->
+<div class="LBlk01">
+<!-- ±êÇ© begin -->
+<ul class="LTab01">
+<li class="Menu01On" id="m01-0">×î½ü·ÃÎÊ¹É</li>
+<li class="Menu01Off" id="m01-1">ÎÒµÄ×ÔÑ¡¹É</li>
+</ul>
+<!-- ±êÇ© end -->
+<!-- ÄÚÈÝ begin -->
+<div id="con01-0"></div>
+<div id="con01-1" style="display:none;">
+<div id="portfolio_loading">
+				¶ÁÈ¡ÖÐ...
+			</div>
+<div id="portfolio_login" style="display:none;margin-top:10px;">
+<div id="inputHead">
+<div>
+<span>ÓÃ»§µÇÂ¼</span>
+</div>
+</div>
+<label> </label>
+<div id="inputBody">
+<form id="formSinaSSOLogin" onsubmit="return false;" style="margin:0px; padding:0px;">
+<div id="spanSinaSSOInfo" style="text-align:center;">ÇëµÇÂ¼»¦Éî×ÔÑ¡</div>
+<ul id="nameAndPwd">
+<li>µÇÂ¼Ãû <input class="loginInput" name="id" type="text" value=""/></li>
+<li>ÃÜ¡¡Âë <input class="loginInput" name="pwd" type="password" value=""/></li>
+<li>±£´æ×´Ì¬ <select name="savestate"><option value="0">²»±£´æ</option><option value="7">Ò»ÖÜ</option><option value="14">Á½ÖÜ</option><option selected="selected" value="30">Ò»¸öÔÂ</option></select></li>
+</ul>
+<label> </label>
+<ul id="loginButton">
+<li><input type="submit" value="µÇÂ¼"/></li>
+<li><input type="reset" value="ÖØÌî"/></li>
+</ul>
+<div class="clearer"></div>
+<div style="line-height:25px; text-align:center; margin-top:15px;"><a href="http://login.sina.com.cn/hd/reg.php?entry=finance&amp;r=http://watchlist.finance.sina.com.cn/portfolio/view/main.php" target="_blank">Ãâ·Ñ×¢²á</a>¡¡<a href="http://login.sina.com.cn/getpass.html" target="_blank">ÕÒ»ØÃÜÂë</a></div>
+<div style="line-height:25px; text-align:center;"><a href="http://login.sina.com.cn/help.html" target="_blank">µÇÂ¼°ïÖú</a></div>
+<div style="line-height:25px; text-align:center;"><a href="http://watchlist.finance.sina.com.cn/portfolio/view/main.php" target="_blank">ÎÒµÄ×ÔÑ¡¹É</a></div>
+</form>
+</div>
+</div>
+<div id="portfolio_list" style="display:none;">
+<table cellspacing="0" class="LTabBlk01">
+<tr>
+<th class="LTabBlk01ThName">Ãû³Æ</th>
+<th class="LTabBlk01ThValue">¼Û¸ñ(Ôª)</th>
+<th class="LTabBlk01ThZdf">ÕÇµø·ù</th>
+</tr>
+<!-- %
+					if (data["my"].length == 0) {
+					% -->
+<tr>
+<td colspan="3">ÉÐÎ´Ìí¼Ó×ÔÑ¡, <a href="http://watchlist.finance.sina.com.cn/portfolio/view/main.php" target="_blank">µã»÷½øÈë</a></td>
+</tr>
+<!-- %
+					}
+					% -->
+<!-- %
+					if ("my" in data) {
+						for (var i in data["my"]) {
+					% -->
+<tr>
+<td style="text-align: left; padding-left: 3px;"><a target="_self"><!-- % print(data["my"][i]["name"]); % --></a></td>
+<td style="text-align: right;"><!-- % print(data["my"][i]["price"]); % --></td>
+<td style="text-align: right; padding-right: 2px;"><font><!-- % print(data["my"][i]["flag"]); % --><!-- % print(data["my"][i]["rate"]); % --><!-- % print(data["my"][i]["percent"]); % --></font></td>
+</tr>
+<!-- %
+						}
+					}
+					% -->
+<tr>
+<td colspan="3" style="text-align: center;"><a href="http://watchlist.finance.sina.com.cn/portfolio/view/main.php" target="_blank">ÎÒµÄ×ÔÑ¡¹É&gt;&gt;</a></td>
+</tr>
+<!-- %
+					if ("my" in data && data["my"].length < 16) {
+					% -->
+<tr>
+<td colspan="3"><center><font color="#ff0000">ÒÔÏÂÎªÈÈÃÅ¹ÉÆ±</font></center></td>
+</tr>
+<!-- %
+					}
+					% -->
+<!-- %
+					if ("hot" in data) {
+						for (var i in data["hot"]) {
+					% -->
+<tr>
+<td style="text-align: left; padding-left: 3px;"><a target="_self"><!-- % print(data["hot"][i]["name"]); % --></a></td>
+<td style="text-align: right;"><!-- % print(data["hot"][i]["price"]); % --></td>
+<td style="text-align: right; padding-right: 2px;"><font><!-- % print(data["hot"][i]["flag"]); % --><!-- % print(data["hot"][i]["rate"]); % --><!-- % print(data["hot"][i]["percent"]); % --></font></td>
+</tr>
+<!-- %
+						}
+					}
+					% -->
+</table>
+</div>
+</div>
+<script src="http://www.sinaimg.cn/cj/financewidget/js/MarketTS.js" type="text/javascript"></script>
+<script src="http://www.sinaimg.cn/cj/financewidget/js/SinaFinancePlatform.js" type="text/javascript"></script>
+<script charset="UTF-8" src="http://i.sso.sina.com.cn/js/sinaSSOManager.js" type="text/javascript"></script>
+<!--        <script type="text/javascript" src="http://www.sinaimg.cn/cj/financewidget/js/PortfolioList_3.1.2.js"></script>-->
+<script src="http://n.sinaimg.cn/finance/newstock/PortfolioList_3.1.2.js" type="text/javascript"></script>
+<script type="text/javascript">
+			new PortfolioList({
+				"tab": "m01-1",
+				"on": "mouseover",
+				"target": "portfolio_list",
+				"login": "portfolio_login",
+				"form": "formSinaSSOLogin",
+				"info": "spanSinaSSOInfo",
+				"loading": "portfolio_loading",
+				"type": "stock",
+				"market": "sh",
+				"open": ["¼¯ºÏ¾º¼Û", "¾º¼ÛÊ±¶Î", "ÔçÅÌÖÐ", "ÎçÅÌÖÐ"],
+				"hot": function () {
+					var __objectExclude = {"sh000001": 1, "sz399001": 1, "sh000300": 1, fullcode: 1};
+					var __stringKey = "hotstock_daily_a";
+					var __arrayHot = [];
+					if (__stringKey in window) {
+						for (var i in window[__stringKey]) {
+							if (!(window[__stringKey][i][0] in __objectExclude)) {
+								__arrayHot.push(window[__stringKey][i][0]);
+							}
+						}
+					}
+					return __arrayHot;
+				}(),
+				"check": 10 * 1000,
+				"my": "portfolio",
+				"load": 3 * 60 * 1000,
+				"quote": 5 * 1000,
+				"max": 11,
+				"split": true,
+				"list": function (__arrayList) {
+					return __arrayList;
+				},
+				"process": function (__stringCode, __arrayData, __arrayLast) {
+					var __arrayArrow = ["\u2191", "\u2193", "\u3000"];
+					//~ Ö¤È¯¼ò³Æ,½ñÈÕ¿ªÅÌ¼Û,×òÈÕÊÕÅÌ¼Û,×î½ü³É½»¼Û,×î¸ß³É½»¼Û,×îµÍ³É½»¼Û,ÂòÈë¼Û,Âô³ö¼Û,³É½»ÊýÁ¿,³É½»½ð¶î,ÂòÊýÁ¿Ò»,Âò¼ÛÎ»Ò»,ÂòÊýÁ¿¶þ,Âò¼ÛÎ»¶þ,ÂòÊýÁ¿Èý,Âò¼ÛÎ»Èý,ÂòÊýÁ¿ËÄ,Âò¼ÛÎ»ËÄ,ÂòÊýÁ¿Îå,Âò¼ÛÎ»Îå,ÂôÊýÁ¿Ò»,Âô¼ÛÎ»Ò»,ÂôÊýÁ¿¶þ,Âô¼ÛÎ»¶þ,ÂôÊýÁ¿Èý,Âô¼ÛÎ»Èý,ÂôÊýÁ¿ËÄ,Âô¼ÛÎ»ËÄ,ÂôÊýÁ¿Îå,Âô¼ÛÎ»Îå,ÐÐÇéÈÕÆÚ,ÐÐÇéÊ±¼ä
+					var __numberLastChangeIndex = 2;
+					if (__arrayLast != null) {
+						var __numberLastChange = __arrayLast[3] * 1 - __arrayData[3] * 1;
+						if (__numberLastChange > 0) {
+							__numberLastChangeIndex = 1;
+						}
+						else if (__numberLastChange < 0) {
+							__numberLastChangeIndex = 0;
+						}
+					}
+					var __keep = function (__number, __zero) {
+						try {
+							switch (typeof __number) {
+								case "number":
+								case "string":
+									__number = parseFloat(__number);
+									if (isNaN(__number) == true || __number == Number.POSITIVE_INFINITY || __number == Number.NEGATIVE_INFINITY) {
+										return "--";
+									}
+									else {
+										return __number.toFixed(__zero);
+									}
+								default:
+									return "--";
+							}
+						}
+						catch (e) {
+							return "--";
+						}
+					};
+					var __stringPrice = __arrayData[3] * 1 == 0 ? "--" : __arrayData[3];
+					var __stringChange = __keep(__arrayData[3] * 1 - __arrayData[2] * 1, 2);
+					var __stringRate = __keep((__arrayData[3] * 1 - __arrayData[2] * 1) / __arrayData[2] * 100, 2);
+					var __stringFlag = "";
+					var __stringColor = "";
+					var __stringPercent = "%";
+					if (__stringPrice == "--") {
+						__stringChange = "--";
+						__stringRate = "--";
+						__stringFlag = "";
+						__numberLastChangeIndex = 2;
+						__stringColor = "";
+						__stringPercent = "";
+					}
+					if (__stringRate != "--") {
+						if (__stringRate * 1 > 0) {
+							__stringFlag = "+";
+							__stringColor = "incolor";
+						}
+						else if (__stringRate * 1 < 0) {
+							__stringColor = "decolor";
+						}
+						__stringPercent = "%";
+					}
+					else {
+						__stringChange = "--";
+						__stringRate = "--";
+						__stringFlag = "";
+						__numberLastChangeIndex = 2;
+						__stringColor = "";
+						__stringPercent = "";
+					}
+					var __objectData = {
+						"code": __stringCode,
+						"name": __arrayData[0],
+						"price": __stringPrice,
+						"change": __stringChange,
+						"rate": __stringRate,
+						"flag": __stringFlag,
+						"arrow": __arrayArrow[__numberLastChangeIndex],
+						"color": __stringColor,
+						"percent": __stringPercent
+					};
+					return __objectData;
+				}
+			});
+		</script>
+<!-- ÄÚÈÝ end -->
+</div>
+<!-- ×î½ü·ÃÎÊ¹É|ÎÒµÄ×ÔÑ¡¹É end -->
+<div class="HSpace-1-10"></div>
+<!-- ²Ëµ¥ begin -->
+<div class="Menu-Ti" id="navlf00"><img alt="" id="tImg0" src="http://www.sinaimg.cn/cj/realstock/image2/finance_in_ws_010.gif"/><span class="capname">Ã¿ÈÕ±Ø¶Á</span></div>
+<div class="Menu-Con" id="item0" style="display:block;">
+<table cellspacing="0">
+<tr>
+<td> <a href="http://stock.finance.sina.com.cn/" target="_self">¹ÉÊÐ±Ø²ì</a></td>
+<td> <a href="http://biz.finance.sina.com.cn/stock/company/notice.php?kind=daily" target="_self">Ã¿ÈÕÌáÊ¾</a></td>
+</tr>
+<tr>
+<!-- 20180403ÓÉÓÚÌá¹©ÉÌÊý¾Ý²»ÔÙ¸üÐÂ£¬²úÆ·ÒªÇóÏÂÏß -->
+<!-- <td>¡¤<a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vRPD_QuickView/.phtml" target="_self">¹«Ë¾¿ì±¨</a></td> -->
+<!-- <td>&nbsp;<a href="http://biz.finance.sina.com.cn/stock/company/quick_view.php" target="_self">¹«Ë¾¿ì±¨</a></td>-->
+<td> <a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vRPD_NewStockIssue/page/1.phtml" target="_self">ÐÂ¹ÉÉÏÊÐ</a></td>
+<td> <a href="http://biz.finance.sina.com.cn/data_reveal/index.php" target="_self">Áú»¢°ñµ¥</a></td>
+</tr>
+<!-- <tr>-->
+<!-- 20180403ÓÉÓÚÌá¹©ÉÌÊý¾Ý²»ÔÙ¸üÐÂ£¬²úÆ·ÒªÇóÏÂÏß -->
+<!-- <td>&nbsp;<a href="http://finance.sina.com.cn/stock/roll.shtml" target="_self">Ã¿ÈÕ×ÉÑ¯</a></td>-->
+<!-- </tr>-->
+<tr>
+<!-- 20180403ÓÉÓÚÌá¹©ÉÌÊý¾Ý²»ÔÙ¸üÐÂ£¬²úÆ·ÒªÇóÏÂÏß -->
+<!-- <td>&nbsp;<a href="http://biz.finance.sina.com.cn/stockask/index.php" target="_self">¹ÉÊÐÖ±²¥</a></td>-->
+<td> <a class="incolor" href="http://finance.sina.com.cn/stockradar/stockradar.html" target="_self">¹ÉÊÐÀ×´ï</a></td>
+</tr>
+</table>
+</div>
+<!-- ¹«Ë¾×ÊÁÏ -->
+<div class="Menu-Ti" id="navlf01"><img alt="" id="tImg1" src="http://www.sinaimg.cn/cj/realstock/image2/finance_in_ws_010.gif"/><span class="capname">¹«Ë¾×ÊÁÏ</span></div>
+<div class="Menu-Con" id="item1" style="display:block; height:88px; overflow:hidden; *height:87px;">
+<table cellspacing="0">
+<tr>
+<td> <a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/162411.phtml" target="_self">¹«Ë¾¼ò½é</a></td>
+<td> <a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_StockStructure/stockid/162411.phtml" target="_self">¹É±¾½á¹¹</a></td>
+</tr>
+<tr>
+<td> <a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_StockHolder/stockid/162411/displaytype/30.phtml" target="_self">Ö÷Òª¹É¶«</a></td>
+<td> <a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CirculateStockHolder/stockid/162411/displaytype/30.phtml" target="_self">Á÷Í¨¹É¶«</a></td>
+</tr>
+<tr>
+<td> <a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_FundStockHolder/stockid/162411/displaytype/30.phtml" target="_self">»ù½ð³Ö¹É</a></td>
+<td> <a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpManager/stockid/162411.phtml" target="_self">¹«Ë¾¸ß¹Ü</a></td>
+</tr>
+<tr>
+<td> <a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpRule/stockid/162411.phtml" target="_self">¹«Ë¾ÕÂ³Ì</a></td>
+<td> <a href="http://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpOtherInfo/stockid/162411.phtml" target="_self">Ïà¹Ø×ÊÁÏ</a></td>
+</tr>
+</table>
+</div>
+<!-- 20180403ÓÉÓÚÌá¹©ÉÌÊý¾Ý²»ÔÙ¸üÐÂ£¬²úÆ·ÒªÇóÏÂÏß -->
+<!-- ÌØÉ«Êý¾Ý -->
+<!--      <div class="Menu-Ti" id="navlf02"><img src="http://www.sinaimg.cn/cj/realstock/image2/finance_in_ws_010.gif" alt="" id="tImg2"/><span class="capname">ÌØÉ«Êý¾Ý</span></div>-->
+<!--      <div class="Menu-Con" id="item2" style="display:block;">-->
+<!--      <table cellspacing="0">-->
+<!--          <tr>-->
+<!--            <td>&nbsp;<a href="http://finance.sina.com.cn/realstock/company/--><!--/zjld.shtml" target="_self">×Ê½ðÁ÷Ïò</a></td>-->
+<!--            <td>&nbsp;<a href="http://finance.sina.com.cn/realstock/company/--><!--/ggtj.shtml" target="_self">¸ö¹ÉÌå¼ì</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--            <td>&nbsp;<a href="http://finance.sina.com.cn/realstock/company/--><!--/fxpj.shtml" target="_self">·çÏÕÆÀ¼Û</a></td>-->
+<!--           <td>&nbsp;<a href="http://finance.sina.com.cn/stock/message/sogusina/sogu--><!--.htm" target="_self">¼ÛÖµ¹ÀÖµ</a></td> -->
+<!--          </tr>-->
+<!--        </table>-->
+<!--      </div>-->
+<!-- ÐÐÇé×ßÊÆ -->
+<div class="Menu-Ti" id="navlf02"><img alt="" id="tImg3" src="http://www.sinaimg.cn/cj/realstock/image2/finance_in_ws_010.gif"/><span class="capname">ÐÐÇé×ßÊÆ</span></div>
+<div class="Menu-Con" id="item2" style="display:block;">
+<table cellspacing="0">
+<tr>
+<td> <a href="http://finance.sina.com.cn/realstock/company/sz162411/nc.shtml" target="_self">·ÖÊ±×ßÊÆ</a></td>
+<td> <a href="http://vip.stock.finance.sina.com.cn/mkt/" target="_self">ÐÐÇéÖÐÐÄ</a></td>
+</tr>
+<tr>
+<td> <a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/cn_bill.php?symbol=sz162411" target="_self">´óµ¥×·×Ù</a></td>
+<td> <a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradedetail.php?symbol=sz162411" target="_self">³É½»Ã÷Ï¸</a></td>
+</tr>
+<tr>
+<td> <a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/cn_price.php?symbol=sz162411" target="_self">·Ö¼ÛÍ¼±í</a></td>
+<td> <a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/cn_price_history.php?symbol=sz162411" target="_self">³Ö²Ö·ÖÎö</a></td>
+</tr>
+<!-- 20180403ÓÉÓÚÌá¹©ÉÌÊý¾Ý²»ÔÙ¸üÐÂ£¬²úÆ·ÒªÇóÏÂÏß -->
+<!-- <tr>-->
+<!-- <td colspan="2">&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('fq_daily');">¸´È¨ÐÐÇé</a></td>-->
+<!-- </tr>-->
+</table>
+</div>
+<!-- 20180403ÓÉÓÚÌá¹©ÉÌÊý¾Ý²»ÔÙ¸üÐÂ£¬²úÆ·ÒªÇóÏÂÏß -->
+<!-- ¼¼ÊõÖ¸±ê -->
+<!--      <div class="Menu-Ti" id="navlf04"><img src="http://www.sinaimg.cn/cj/realstock/image2/finance_in_ws_012.gif" alt="" id="tImg4"/><span class="capname">¼¼ÊõÖ¸±ê</span></div>-->
+<!--      <div class="Menu-Con" id="item4" style="display:none;">-->
+<!--        <table cellspacing="0">-->
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('mink5')">5·ÖÖÓKÏß</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('mink15');">15·ÖÖÓKÏß</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('mink30');">30·ÖÖÓKÏß</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('daily_0');">ÈÕKÏß-1¸öÔÂ</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('daily_1');">ÈÕKÏß-3¸öÔÂ</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('daily');">ÈÕKÏß-90Ìì</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('daily_2');">ÈÕKÏß-°ëÄê</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('daily_3');">ÈÕKÏß-1Äê</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('daily_4');">ÈÕKÏß-2Äê</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('daily_5');">ÈÕKÏß-3Äê</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td>&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('weekly');">ÖÜKÏß</a></td>-->
+<!--                <td>&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('monthly');">ÔÂKÏß</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('fq_daily_0');">¸´È¨ÈÕKÏß-1¸öÔÂ</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('fq_daily_1');">¸´È¨ÈÕKÏß-3¸öÔÂ</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('fq_daily');">¸´È¨ÈÕKÏß-90Ìì</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('fq_daily_2');">¸´È¨ÈÕKÏß-°ëÄê</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('fq_daily_3');">¸´È¨ÈÕKÏß-1Äê</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('fq_daily_4');">¸´È¨ÈÕKÏß-2Äê</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('fq_daily_5');">¸´È¨ÈÕKÏß-3Äê</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td>&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('macd');">MACD</a></td>-->
+<!--                <td>&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('trix');">TRIX</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td>&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('dmi');">DMI</a></td>-->
+<!--                <td>&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('expma');">EXPMA</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td>&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('brar');">BRAR</a></td>-->
+<!--                <td>&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('cr');">CR</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td>&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('vr');">VR</a></td>-->
+<!--                <td>&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('psy');">PSY</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td>&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('obv');">OBV</a></td>-->
+<!--                <td>&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('asi');">ASI</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td>&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('emv');">EMV</a></td>-->
+<!--                <td>&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('wvad');">WVAD</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td>&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('rsi');">RSI</a></td>-->
+<!--                <td>&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('wr');">W%R</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td>&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('kdj');">KDJ</a></td>-->
+<!--                <td>&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('roc');">ROC</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td>&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('mike');">MIKE</a></td>-->
+<!--                <td>&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('dma');">DMA</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td>&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('boll');">BOLL</a></td>-->
+<!--                <td>&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('bias');">BIAS</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--            <td colspan="2">&nbsp;<a href="#" onclick="S_Finance.upconstants._changepic('cci');">CCI</a></td>-->
+<!--          </tr>-->
+<!--        </table>-->
+<!--      </div>-->
+<!-- ·¢ÐÐÓë·ÖÅä -->
+<div class="Menu-Ti" id="navlf03"><img alt="" id="tImg5" src="http://www.sinaimg.cn/cj/realstock/image2/finance_in_ws_012.gif"/><span class="capname">·¢ÐÐÓë·ÖÅä</span></div>
+<div class="Menu-Con" id="item3" style="display:block;">
+<table cellspacing="0">
+<tr>
+<td> <a href="http://money.finance.sina.com.cn/corp/go.php/vISSUE_ShareBonus/stockid/162411.phtml" target="_self">·ÖºìÅä¹É</a></td>
+<td> <a href="http://money.finance.sina.com.cn/corp/go.php/vISSUE_NewStock/stockid/162411.phtml" target="_self">ÐÂ¹É·¢ÐÐ</a></td>
+</tr>
+<tr>
+<td> <a href="http://money.finance.sina.com.cn/corp/go.php/vISSUE_AddStock/stockid/162411.phtml" target="_self">Ôö·¢Çé¿ö</a></td>
+<td> <a href="http://money.finance.sina.com.cn/corp/go.php/vISSUE_RaiseExplanation/stockid/162411.phtml" target="_self">ÕÐ¹ÉËµÃ÷</a></td>
+</tr>
+<!-- 20180403ÓÉÓÚÌá¹©ÉÌÊý¾Ý²»ÔÙ¸üÐÂ£¬²úÆ·ÒªÇóÏÂÏß -->
+<!-- <tr>-->
+<!-- <td>&nbsp;<a href="http://money.finance.sina.com.cn/corp/go.php/vISSUE_TransferableBond/stockid/--><!--.phtml" target="_self">·¢¿É×ªÕ®</a></td>-->
+<!-- <td>&nbsp;<a href="http://money.finance.sina.com.cn/corp/go.php/vISSUE_CollectFund/stockid/--><!--.phtml" target="_self">Ä¼×ÊÍ¶Ïò</a></td>-->
+<!-- </tr>-->
+<tr>
+<td colspan="2"> <a href="http://money.finance.sina.com.cn/corp/go.php/vISSUE_MarketBulletin/stockid/162411.phtml" target="_self">ÉÏÊÐ¹«¸æ</a></td>
+</tr>
+</table>
+</div>
+<!-- ²ÆÎñ±¨±í -->
+<div class="Menu-Ti" id="navlf04"><img alt="" id="tImg6" src="http://www.sinaimg.cn/cj/realstock/image2/finance_in_ws_010.gif"/><span class="capname">²ÆÎñ±¨±í</span></div>
+<div class="Menu-Con" id="item4" style="display:block;">
+<table cellspacing="0">
+<tr>
+<td colspan="2"> <a href="http://money.finance.sina.com.cn/corp/go.php/vFD_FinanceSummary/stockid/162411/displaytype/4.phtml" target="_self">²ÆÎñÕªÒª±í</a></td>
+</tr>
+<tr>
+<td colspan="2"> <a href="http://money.finance.sina.com.cn/corp/go.php/vFD_BalanceSheet/stockid/162411/ctrl/part/displaytype/4.phtml" target="_self">×Ê²ú¸ºÕ®±í</a></td>
+</tr>
+<tr>
+<td colspan="2"> <a href="http://money.finance.sina.com.cn/corp/go.php/vFD_ProfitStatement/stockid/162411/ctrl/part/displaytype/4.phtml" target="_self">¹«Ë¾ÀûÈó±í</a></td>
+</tr>
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a target="_self" href="http://money.finance.sina.com.cn/corp/go.php/vFD_BalanceSheet_Text/stockid/--><!--/type/1070.phtml">ÀûÈó±í¸½×¢</a></td>-->
+<!--          </tr>-->
+<tr>
+<td colspan="2"> <a href="http://money.finance.sina.com.cn/corp/go.php/vFD_CashFlow/stockid/162411/ctrl/part/displaytype/4.phtml" target="_self">ÏÖ½ðÁ÷Á¿±í</a></td>
+</tr>
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a target="_self" href="http://money.finance.sina.com.cn/corp/go.php/vFD_BalanceSheet_Text/stockid/--><!--/type/1079.phtml">ÏÖ½ðÁ÷Á¿±í¸½×¢</a></td>-->
+<!--          </tr>-->
+<!--           <tr>-->
+<!--                <td colspan="2">&nbsp;<a target="_self" href="http://money.finance.sina.com.cn/corp/go.php/vFD_BalanceSheet_Text/stockid/--><!--/type/1040.phtml">×Ê²ú¸ºÕ®±í¸½×¢</a></td>-->
+<!--          </tr>-->
+</table>
+</div>
+<!-- 20180403ÓÉÓÚÌá¹©ÉÌÊý¾Ý²»ÔÙ¸üÐÂ£¬²úÆ·ÒªÇóÏÂÏßÏà¹Øµ¼º½ -->
+<!-- ²ÆÎñÊý¾Ý -->
+<div class="Menu-Ti" id="navlf05"><img alt="" id="tImg7" src="http://www.sinaimg.cn/cj/realstock/image2/finance_in_ws_010.gif"/><span class="capname">²ÆÎñÊý¾Ý</span></div>
+<div class="Menu-Con" id="item5" style="display:block;">
+<table cellspacing="0">
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a target="_self" href="http://money.finance.sina.com.cn/corp/go.php/vFD_FootNotes/stockid/--><!--.phtml">²ÆÎñ¸½×¢</a></td>-->
+<!--          </tr>-->
+<tr>
+<td colspan="2"> <a href="http://money.finance.sina.com.cn/corp/go.php/vFD_AchievementNotice/stockid/162411.phtml" target="_self">Òµ¼¨Ô¤¸æ</a></td>
+</tr>
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a target="_self" href="http://money.finance.sina.com.cn/corp/go.php/vFD_BadAccount/stockid/--><!--/displaytype/4.phtml">»µÕÊ×¼±¸</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a target="_self" href="http://money.finance.sina.com.cn/corp/go.php/vFD_FootNotes_Text/stockid/--><!--.phtml">ÎÄ×Ö¸½×¢</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--          <td colspan="2">&nbsp;<a target="_self" href="http://money.finance.sina.com.cn/corp/go.php/vFD_PayTax/stockid/--><!--/displaytype/4.phtml">Ó¦½»ÔöÖµË°¿î</a></td>-->
+<!--          </tr>-->
+<tr>
+<td colspan="2"> <a href="http://money.finance.sina.com.cn/corp/go.php/vFD_BenifitChange/stockid/162411/displaytype/4.phtml" target="_self">¹É¶«È¨ÒæÔö¼õ</a></td>
+</tr>
+<!--          <tr>-->
+<!--                <td colspan="2">&nbsp;<a target="_self" href="http://money.finance.sina.com.cn/corp/go.php/vFD_AssetDevalue/stockid/--><!--/displaytype/4.phtml">×Ê²ú¼õÖµ×¼±¸</a></td>-->
+<!--          </tr>-->
+</table>
+</div>
+<div class="HSpace-1-10"></div>
+<!-- ²ÆÎñ·ÖÎö -->
+<div class="Menu-Ti" id="navlf06"><img alt="" id="tImg8" src="http://www.sinaimg.cn/cj/realstock/image2/finance_in_ws_010.gif"/><span class="capname">²ÆÎñ·ÖÎö</span></div>
+<div class="Menu-Con" id="item6" style="display:none;">
+<table cellspacing="0">
+<tr>
+<td> <a href="http://money.finance.sina.com.cn/corp/go.php/vFD_FinancialGuideLine/stockid/162411/displaytype/4.phtml" target="_self">²ÆÎñÖ¸±ê</a></td>
+<td> <a href="http://money.finance.sina.com.cn/corp/go.php/vFD_DupontAnalysis/stockid/162411/displaytype/10.phtml" target="_self">¶Å°î·ÖÎö</a></td>
+</tr>
+</table>
+</div>
+<!-- ¸ö¹É×ÊÁÏ -->
+<div class="Menu-Ti" id="navlf07"><img alt="" id="tImg9" src="http://www.sinaimg.cn/cj/realstock/image2/finance_in_ws_010.gif"/><span class="capname">¸ö¹É×ÊÁÏ</span></div>
+<div class="Menu-Con" id="item7" style="display:none;">
+<table cellspacing="0">
+<tr>
+<td> <a href="http://money.finance.sina.com.cn/corp/go.php/vCI_CorpOtherInfo/stockid/162411/menu_num/2.phtml" target="_self">ËùÊôÐÐÒµ</a></td>
+<td> <a href="http://money.finance.sina.com.cn/corp/go.php/vCI_CorpOtherInfo/stockid/162411/menu_num/3.phtml" target="_self">ËùÊôÖ¸Êý</a></td>
+</tr>
+<tr>
+<td> <a href="http://money.finance.sina.com.cn/corp/go.php/vCI_CorpOtherInfo/stockid/162411/menu_num/1.phtml" target="_self">Ïà¹ØÖ¤È¯</a></td>
+<td> <a href="http://money.finance.sina.com.cn/corp/go.php/vCI_CorpOtherInfo/stockid/162411/menu_num/0.phtml" target="_self">»ù±¾×ÊÁÏ</a></td>
+</tr>
+<tr>
+<td> <a href="http://money.finance.sina.com.cn/corp/go.php/vCI_CorpOtherInfo/stockid/162411/menu_num/4.phtml" target="_self">ËùÊôÏµ±ð</a></td>
+<td> <a href="http://money.finance.sina.com.cn/corp/go.php/vCI_CorpOtherInfo/stockid/162411/menu_num/5.phtml" target="_self">ËùÊô°å¿é</a></td>
+</tr>
+</table>
+</div>
+<!-- ²ÆÎñÓë¹«¸æ -->
+<div class="Menu-Ti" id="navlf08"><img alt="" id="tImg10" src="http://www.sinaimg.cn/cj/realstock/image2/finance_in_ws_012.gif"/><span class="capname">²ÆÎñÓë¹«¸æ</span></div>
+<div class="Menu-Con" id="item8" style="display:block;">
+<table cellspacing="0">
+<tr>
+<td> <a href="http://money.finance.sina.com.cn/corp/go.php/vCB_AllBulletin/stockid/162411.phtml" target="_self">¹«Ë¾¹«¸æ</a></td>
+<td> <a href="http://money.finance.sina.com.cn/corp/view/vCB_Bulletin.php?stockid=162411&amp;type=list&amp;page_type=ndbg" target="_self">Äê¶È±¨¸æ</a></td>
+</tr>
+<tr>
+<td> <a href="http://money.finance.sina.com.cn/corp/view/vCB_BulletinZhong.php?stockid=162411&amp;type=list&amp;page_type=zqbg" target="_self">ÖÐÆÚ±¨¸æ</a></td>
+<td> <a href="http://money.finance.sina.com.cn/corp/view/vCB_BulletinYi.php?stockid=162411&amp;type=list&amp;page_type=yjdbg" target="_self">µÚÒ»¼¾¶È</a></td>
+</tr>
+<tr>
+<td colspan="2"> <a href="http://money.finance.sina.com.cn/corp/view/vCB_BulletinSan.php?stockid=162411&amp;type=list&amp;page_type=sjdbg" target="_self">µÚÈý¼¾¶È</a></td>
+</tr>
+</table>
+</div>
+<!-- ×Ê±¾ÔË×÷ -->
+<div class="Menu-Ti" id="navlf09"><img alt="" id="tImg11" src="http://www.sinaimg.cn/cj/realstock/image2/finance_in_ws_012.gif"/><span class="capname">×Ê±¾ÔË×÷</span></div>
+<div class="Menu-Con" id="item9" style="display:none;">
+<table cellspacing="0">
+<tr>
+<td> <a href="http://money.finance.sina.com.cn/corp/go.php/vCO_HoldingCompany/stockid/162411.phtml" target="_self">¿Ø¹É²Î¹É</a></td>
+<td> <a href="http://money.finance.sina.com.cn/corp/go.php/vCO_ShareStockbroker/stockid/162411.phtml" target="_self">²Î¹ÉÈ¯ÉÌ</a></td>
+</tr>
+<tr>
+<td> <a href="http://money.finance.sina.com.cn/corp/go.php/vCO_CapitalTrusteeship/stockid/162411.phtml" target="_self">×Ê²úÍÐ¹Ü</a></td>
+<td> <a href="http://money.finance.sina.com.cn/corp/go.php/vCO_CapitalReplacement/stockid/162411.phtml" target="_self">×Ê²úÖÃ»»</a></td>
+</tr>
+<tr>
+<td> <a href="http://money.finance.sina.com.cn/corp/go.php/vCO_CapitalTrade/stockid/162411.phtml" target="_self">×Ê²ú½»Ò×</a></td>
+<td> <a href="http://money.finance.sina.com.cn/corp/go.php/vCO_CapitalStrip/stockid/162411.phtml" target="_self">×Ê²ú°þÀë</a></td>
+</tr>
+</table>
+</div>
+<!-- ÖØ´óÊÂÏî -->
+<div class="HSpace-1-10"></div>
+<div class="Menu-Ti" id="navlf10"><img alt="" id="tImg12" src="http://www.sinaimg.cn/cj/realstock/image2/finance_in_ws_012.gif"/><span class="capname">ÖØ´óÊÂÏî</span></div>
+<div class="Menu-Con" id="item10" style="display:none;">
+<table cellspacing="0">
+<tr>
+<td colspan="2"> <a href="http://money.finance.sina.com.cn/corp/go.php/vGP_StockHolderMeeting/stockid/162411.phtml" target="_self">¹É¶«´ó»á</a></td>
+</tr>
+<!--          <tr>-->
+<!--            <td>&nbsp;<a href="http://money.finance.sina.com.cn/corp/go.php/vGP_RelatedTrade/stockid/--><!--.phtml" target="_self">¹ØÁª½»Ò×</a></td>-->
+<!--          </tr>-->
+<tr>
+<td> <a href="http://money.finance.sina.com.cn/corp/go.php/vGP_GetOutOfLine/stockid/162411.phtml" target="_self">Î¥¹æ¼ÇÂ¼</a></td>
+</tr>
+<tr>
+<td> <a href="http://money.finance.sina.com.cn/corp/go.php/vGP_Lawsuit/stockid/162411.phtml" target="_self">ËßËÏÖÙ²Ã</a></td>
+</tr>
+<tr>
+<td> <a href="http://money.finance.sina.com.cn/corp/go.php/vGP_Assurance/stockid/162411.phtml" target="_self">¶ÔÍâµ£±£</a></td>
+</tr>
+</table>
+</div>
+<!-- Ïà¹Ø×¨Ìâ -->
+<!--      <div class="Menu-Ti" id="navlf12"><img src="http://www.sinaimg.cn/cj/realstock/image2/finance_in_ws_012.gif" alt="" id="tImg13"/><span class="capname">Ïà¹Ø×¨Ìâ</span></div>-->
+<!--      <div class="Menu-Con" id="item12" style="display:none;">-->
+<!--        <table cellspacing="0">-->
+<!--          <tr>-->
+<!--            <td></td>-->
+<!--          </tr>-->
+<!--        </table>-->
+<!--      </div>-->
+<!-- Ïà¹Ø×ÉÑ¯ -->
+<!--      <div class="Menu-Ti" id="navlf13"><img src="http://www.sinaimg.cn/cj/realstock/image2/finance_in_ws_012.gif" alt="" id="tImg14"/><span class="capname">Ïà¹Ø×ÊÑ¶</span></div>-->
+<!--      <div class="Menu-Con" id="item13" style="display:none;">-->
+<!--        <table cellspacing="0">-->
+<!--          <tr>-->
+<!--            <td>&nbsp;<a href="http://finance.sina.com.cn/realstock/sh/--><!--_notice.shtml" target="_self">Ïà¹Ø×ÊÑ¶</a></td>-->
+<!--          </tr>-->
+<!--        </table>-->
+<!--      </div>-->
+<!-- Ñ¡¹É¹¤¾ß -->
+<!--      <div class="Menu-Ti" id="navlf11"><img src="http://www.sinaimg.cn/cj/realstock/image2/finance_in_ws_012.gif" alt="" id="tImg13"/><span class="capname">Ñ¡¹É¹¤¾ß</span></div>-->
+<!--      <div class="Menu-Con" id="item11" style="display:none;">-->
+<!--        <table cellspacing="0">-->
+<!--          <tr>-->
+<!--            <td>&nbsp;<a href="http://biz.finance.sina.com.cn/smart/cwzb.php" target="_self">ÖÇÄÜÑ¡¹É</a></td>-->
+<!--            <td>&nbsp;<a href="http://biz.finance.sina.com.cn/company/compare/compare.php?stock_code=--><!--" target="_self">²ÆÎñ¶Ô±È</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--            <td colspan="2">&nbsp;<a href="http://biz.finance.sina.com.cn/browser/first.php" target="_self">Êý¾Ýä¯ÀÀ</a></td>-->
+<!--          </tr>-->
+<!--        </table>-->
+<!--      </div>-->
+<!-- ä¯ÀÀ¹¤¾ß -->
+<!--      <div class="Menu-Ti" id="navlf15"><img src="http://www.sinaimg.cn/cj/realstock/image2/finance_in_ws_012.gif" alt="" id="tImg16"/><span class="capname">ä¯ÀÀ¹¤¾ß</span></div>-->
+<!--      <div class="Menu-Con" id="item15" style="display:none;">-->
+<!--        <table cellspacing="0">-->
+<!--          <tr>-->
+<!--            <td>&nbsp;<a href="http://www.sina.com.cn/ddt/event/200506_stock.html" target="_self">ÐÐÇéÖÐÐÄ</a></td>-->
+<!--          </tr>-->
+<!--          <tr>-->
+<!--            <td>&nbsp;<a href="http://down1.tech.sina.com.cn/download/downContent/2005-04-08/13529.shtml" target="_self">ÐÂÀË¹ÉµÀ</a></td>-->
+<!--          </tr>-->
+<!--        </table>-->
+<!--      </div>-->
+<!-- ²Ëµ¥ end -->
+</div>
+<!-- ×ó²à end -->
+<!-- ÖÐ¼ä begin -->
+<div id="center">
+<!-- Í¼ begin -->
+<div class="centerImgBlk">
+<!-- toolbartop begin -->
+<div class="toolbartop" id="toolbar">
+<div class="tbtb01">
+<h1><a href="http://finance.sina.com.cn/realstock/company/sz162411/nc.shtml" target="_self">»ª±¦±êÆÕÓÍÆøÉÏÓÎ¹ÉÆ±(QDII-LOF)</a></h1>
+<h2><span id="itemMarket">-</span> 162411</h2>
+</div>
+<div class="tbtb02">
+<h3 class="incolor" id="itemCurrent">-</h3>
+<h4><span class="fRed01" id="itemcurrprice">-</span>  <span class="fRed01" id="itemDiffpercent">-</span></h4>
+<h5 id="itemTickettime">-</h5>
+</div>
+<div class="tbtb03">
+<div class="tbtb0301">×òÊÕÅÌ:<span id="itemPrevious2">-</span> ½ñ¿ªÅÌ:<span id="itemOpen2">-</span> ×î¸ß¼Û:<span class="fRed01" id="itemHigh2">-</span> ×îµÍ¼Û:<span class="fGreen01" id="itemLow2">-</span></div>
+<div class="tbtb0302">ÊÐÖµ:<span id="totalMart2">-</span>ÒÚÔª Á÷Í¨:<span id="currMart2">-</span> ³É½»:<span id="itemVolume2">-</span>ÊÖ »»ÊÖ:<span id="tradeRatio2">-</span></div>
+</div>
+<!--new added-->
+<div class="sht">
+<div class="shtbipt">
+<!--suggest begin-->
+<form action="http://biz.finance.sina.com.cn/suggest/lookup_n.php" id="f" method="post" name="iask_f" onsubmit="return S_Finance.constant._suggest(this)" target="_self">
+<input name="s" type="hidden" value="1"/>
+<input id="portnum" name="portnum" type="hidden" value="8081"/>
+<input id="symbol" name="symbol" type="hidden"/>
+<input id="market" name="market" type="hidden"/>
+<input id="locadr" name="locadr" type="hidden"/>
+<input autocomplete="off" class="shtbipt01" id="k" maxlength="50" name="q" onclick="javascript:if(this.value=='´úÂë/Ãû³Æ/Æ´Òô')this.value='';" type="text" value="´úÂë/Ãû³Æ/Æ´Òô"/><input class="shtbipt02" type="submit" value="²éÑ¯"/><input class="shtbipt03" onclick="window.open('http://finance.sina.com.cn/stock/lookup.shtml');" type="button" value="´úÂë¼ìË÷"/>
+</form>
+<!--suggest end-->
+</div>
+<h1>
+<a class="icon2" href="https://gu.sina.cn/pc/feedback/">¹«Ë¾×ÊÁÏÒâ¼û·´À¡</a><!--<a href="bc.shtml" target="_self" class="icon3">¾É°æ</a> --></h1>
+</div>
+</div>
+<!-- toolbartop end -->
+<!--<div style="margin-left: 0px; margin-top: 20px;">-->
+<div class="nav_menu" style="clear:both;"></div><div class="tagmain" id="con02-4">
+<!--ÀúÊ·½»Ò×begin-->
+<table align="center" border="0" cellpadding="0" cellspacing="10" class="table2" width="100%">
+<tr>
+<td align="left" valign="top">
+<form action="" method="get" name="daily">
+<select name="year">
+<option selected="" value="2019">2019</option>
+<option value="2018">2018</option>
+<option value="2017">2017</option>
+<option value="2016">2016</option>
+<option value="2015">2015</option>
+<option value="2014">2014</option>
+<option value="2013">2013</option>
+<option value="2012">2012</option>
+</select>
+<select name="jidu">
+<option value="1">Ò»¼¾¶È</option>
+<option selected="" value="2">¶þ¼¾¶È</option>
+<option value="3">Èý¼¾¶È</option>
+<option value="4">ËÄ¼¾¶È</option>
+</select>
+<input type="submit" value="²éÑ¯"/>
+</form>
+</td>
+</tr>
+</table>
+<table id="FundHoldSharesTable">
+<thead>
+<tr>
+<th colspan="7">
+				»ª±¦±êÆÕÓÍÆøÉÏÓÎ¹ÉÆ±(QDII-LOF)(162411)<font color="blue"></font>Äê<font color="blue"></font>¼¾¶ÈÀúÊ·½»Ò×
+				</th>
+</tr>
+</thead>
+<tr class="tr_2">
+<td><div align="center"><strong>ÈÕÆÚ</strong></div></td>
+<td><div align="center"><strong>¿ªÅÌ¼Û</strong></div></td>
+<td><div align="center"><strong>×î¸ß¼Û</strong></div></td>
+<td><div align="center"><strong>ÊÕÅÌ¼Û</strong></div></td>
+<td class="tdr"><div align="center"><strong>×îµÍ¼Û</strong></div></td>
+<td class="tdr"><div align="center"><strong>½»Ò×Á¿(¹É)</strong></div></td>
+<td class="tdr"><div align="center"><strong>½»Ò×½ð¶î(Ôª)</strong></div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-06-25" target="_blank">
+			2019-06-25			</a>
+</div></td>
+<td><div align="center">0.458</div></td>
+<td><div align="center">0.458</div></td>
+<td><div align="center">0.456</div></td>
+<td class="tdr"><div align="center">0.453</div></td>
+<td class="tdr"><div align="center">194780499</div></td>
+<td class="tdr"><div align="center">88776419</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-06-24" target="_blank">
+			2019-06-24			</a>
+</div></td>
+<td><div align="center">0.462</div></td>
+<td><div align="center">0.464</div></td>
+<td><div align="center">0.462</div></td>
+<td class="tdr"><div align="center">0.460</div></td>
+<td class="tdr"><div align="center">157590986</div></td>
+<td class="tdr"><div align="center">72752500</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-06-21" target="_blank">
+			2019-06-21			</a>
+</div></td>
+<td><div align="center">0.461</div></td>
+<td><div align="center">0.464</div></td>
+<td><div align="center">0.460</div></td>
+<td class="tdr"><div align="center">0.459</div></td>
+<td class="tdr"><div align="center">331187041</div></td>
+<td class="tdr"><div align="center">152832756</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-06-20" target="_blank">
+			2019-06-20			</a>
+</div></td>
+<td><div align="center">0.449</div></td>
+<td><div align="center">0.456</div></td>
+<td><div align="center">0.455</div></td>
+<td class="tdr"><div align="center">0.447</div></td>
+<td class="tdr"><div align="center">326574836</div></td>
+<td class="tdr"><div align="center">147163418</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-06-19" target="_blank">
+			2019-06-19			</a>
+</div></td>
+<td><div align="center">0.451</div></td>
+<td><div align="center">0.452</div></td>
+<td><div align="center">0.450</div></td>
+<td class="tdr"><div align="center">0.448</div></td>
+<td class="tdr"><div align="center">193680618</div></td>
+<td class="tdr"><div align="center">87119760</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-06-18" target="_blank">
+			2019-06-18			</a>
+</div></td>
+<td><div align="center">0.443</div></td>
+<td><div align="center">0.443</div></td>
+<td><div align="center">0.442</div></td>
+<td class="tdr"><div align="center">0.441</div></td>
+<td class="tdr"><div align="center">110435206</div></td>
+<td class="tdr"><div align="center">48863617</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-06-17" target="_blank">
+			2019-06-17			</a>
+</div></td>
+<td><div align="center">0.441</div></td>
+<td><div align="center">0.444</div></td>
+<td><div align="center">0.442</div></td>
+<td class="tdr"><div align="center">0.440</div></td>
+<td class="tdr"><div align="center">166524488</div></td>
+<td class="tdr"><div align="center">73609005</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-06-14" target="_blank">
+			2019-06-14			</a>
+</div></td>
+<td><div align="center">0.446</div></td>
+<td><div align="center">0.447</div></td>
+<td><div align="center">0.445</div></td>
+<td class="tdr"><div align="center">0.445</div></td>
+<td class="tdr"><div align="center">143820257</div></td>
+<td class="tdr"><div align="center">64195616</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-06-13" target="_blank">
+			2019-06-13			</a>
+</div></td>
+<td><div align="center">0.440</div></td>
+<td><div align="center">0.449</div></td>
+<td><div align="center">0.448</div></td>
+<td class="tdr"><div align="center">0.440</div></td>
+<td class="tdr"><div align="center">369838014</div></td>
+<td class="tdr"><div align="center">163921059</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-06-12" target="_blank">
+			2019-06-12			</a>
+</div></td>
+<td><div align="center">0.450</div></td>
+<td><div align="center">0.450</div></td>
+<td><div align="center">0.446</div></td>
+<td class="tdr"><div align="center">0.446</div></td>
+<td class="tdr"><div align="center">242888100</div></td>
+<td class="tdr"><div align="center">108664507</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-06-11" target="_blank">
+			2019-06-11			</a>
+</div></td>
+<td><div align="center">0.448</div></td>
+<td><div align="center">0.452</div></td>
+<td><div align="center">0.451</div></td>
+<td class="tdr"><div align="center">0.448</div></td>
+<td class="tdr"><div align="center">258211918</div></td>
+<td class="tdr"><div align="center">116408805</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-06-10" target="_blank">
+			2019-06-10			</a>
+</div></td>
+<td><div align="center">0.449</div></td>
+<td><div align="center">0.454</div></td>
+<td><div align="center">0.453</div></td>
+<td class="tdr"><div align="center">0.449</div></td>
+<td class="tdr"><div align="center">147656314</div></td>
+<td class="tdr"><div align="center">66600058</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-06-06" target="_blank">
+			2019-06-06			</a>
+</div></td>
+<td><div align="center">0.447</div></td>
+<td><div align="center">0.448</div></td>
+<td><div align="center">0.445</div></td>
+<td class="tdr"><div align="center">0.444</div></td>
+<td class="tdr"><div align="center">318960256</div></td>
+<td class="tdr"><div align="center">142321267</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-06-05" target="_blank">
+			2019-06-05			</a>
+</div></td>
+<td><div align="center">0.457</div></td>
+<td><div align="center">0.458</div></td>
+<td><div align="center">0.455</div></td>
+<td class="tdr"><div align="center">0.455</div></td>
+<td class="tdr"><div align="center">168658813</div></td>
+<td class="tdr"><div align="center">76971086</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-06-04" target="_blank">
+			2019-06-04			</a>
+</div></td>
+<td><div align="center">0.453</div></td>
+<td><div align="center">0.455</div></td>
+<td><div align="center">0.453</div></td>
+<td class="tdr"><div align="center">0.452</div></td>
+<td class="tdr"><div align="center">182751849</div></td>
+<td class="tdr"><div align="center">82917104</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-06-03" target="_blank">
+			2019-06-03			</a>
+</div></td>
+<td><div align="center">0.453</div></td>
+<td><div align="center">0.455</div></td>
+<td><div align="center">0.453</div></td>
+<td class="tdr"><div align="center">0.452</div></td>
+<td class="tdr"><div align="center">241691946</div></td>
+<td class="tdr"><div align="center">109653588</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-05-31" target="_blank">
+			2019-05-31			</a>
+</div></td>
+<td><div align="center">0.460</div></td>
+<td><div align="center">0.463</div></td>
+<td><div align="center">0.461</div></td>
+<td class="tdr"><div align="center">0.458</div></td>
+<td class="tdr"><div align="center">304538787</div></td>
+<td class="tdr"><div align="center">140338781</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-05-30" target="_blank">
+			2019-05-30			</a>
+</div></td>
+<td><div align="center">0.472</div></td>
+<td><div align="center">0.474</div></td>
+<td><div align="center">0.472</div></td>
+<td class="tdr"><div align="center">0.472</div></td>
+<td class="tdr"><div align="center">108942048</div></td>
+<td class="tdr"><div align="center">51520324</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-05-29" target="_blank">
+			2019-05-29			</a>
+</div></td>
+<td><div align="center">0.471</div></td>
+<td><div align="center">0.473</div></td>
+<td><div align="center">0.472</div></td>
+<td class="tdr"><div align="center">0.470</div></td>
+<td class="tdr"><div align="center">342061484</div></td>
+<td class="tdr"><div align="center">161399995</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-05-28" target="_blank">
+			2019-05-28			</a>
+</div></td>
+<td><div align="center">0.487</div></td>
+<td><div align="center">0.487</div></td>
+<td><div align="center">0.486</div></td>
+<td class="tdr"><div align="center">0.483</div></td>
+<td class="tdr"><div align="center">140345346</div></td>
+<td class="tdr"><div align="center">68154826</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-05-27" target="_blank">
+			2019-05-27			</a>
+</div></td>
+<td><div align="center">0.484</div></td>
+<td><div align="center">0.490</div></td>
+<td><div align="center">0.490</div></td>
+<td class="tdr"><div align="center">0.484</div></td>
+<td class="tdr"><div align="center">95179424</div></td>
+<td class="tdr"><div align="center">46383826</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-05-24" target="_blank">
+			2019-05-24			</a>
+</div></td>
+<td><div align="center">0.481</div></td>
+<td><div align="center">0.488</div></td>
+<td><div align="center">0.486</div></td>
+<td class="tdr"><div align="center">0.480</div></td>
+<td class="tdr"><div align="center">194233816</div></td>
+<td class="tdr"><div align="center">94138875</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-05-23" target="_blank">
+			2019-05-23			</a>
+</div></td>
+<td><div align="center">0.500</div></td>
+<td><div align="center">0.503</div></td>
+<td><div align="center">0.499</div></td>
+<td class="tdr"><div align="center">0.499</div></td>
+<td class="tdr"><div align="center">114207458</div></td>
+<td class="tdr"><div align="center">57146127</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-05-22" target="_blank">
+			2019-05-22			</a>
+</div></td>
+<td><div align="center">0.513</div></td>
+<td><div align="center">0.514</div></td>
+<td><div align="center">0.510</div></td>
+<td class="tdr"><div align="center">0.509</div></td>
+<td class="tdr"><div align="center">49242247</div></td>
+<td class="tdr"><div align="center">25171242</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-05-21" target="_blank">
+			2019-05-21			</a>
+</div></td>
+<td><div align="center">0.510</div></td>
+<td><div align="center">0.511</div></td>
+<td><div align="center">0.510</div></td>
+<td class="tdr"><div align="center">0.509</div></td>
+<td class="tdr"><div align="center">64328978</div></td>
+<td class="tdr"><div align="center">32825408</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-05-20" target="_blank">
+			2019-05-20			</a>
+</div></td>
+<td><div align="center">0.518</div></td>
+<td><div align="center">0.518</div></td>
+<td><div align="center">0.516</div></td>
+<td class="tdr"><div align="center">0.513</div></td>
+<td class="tdr"><div align="center">68287342</div></td>
+<td class="tdr"><div align="center">35226312</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-05-17" target="_blank">
+			2019-05-17			</a>
+</div></td>
+<td><div align="center">0.515</div></td>
+<td><div align="center">0.522</div></td>
+<td><div align="center">0.520</div></td>
+<td class="tdr"><div align="center">0.514</div></td>
+<td class="tdr"><div align="center">183442517</div></td>
+<td class="tdr"><div align="center">95092138</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-05-16" target="_blank">
+			2019-05-16			</a>
+</div></td>
+<td><div align="center">0.507</div></td>
+<td><div align="center">0.509</div></td>
+<td><div align="center">0.509</div></td>
+<td class="tdr"><div align="center">0.507</div></td>
+<td class="tdr"><div align="center">53828142</div></td>
+<td class="tdr"><div align="center">27362179</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-05-15" target="_blank">
+			2019-05-15			</a>
+</div></td>
+<td><div align="center">0.505</div></td>
+<td><div align="center">0.506</div></td>
+<td><div align="center">0.504</div></td>
+<td class="tdr"><div align="center">0.502</div></td>
+<td class="tdr"><div align="center">89788330</div></td>
+<td class="tdr"><div align="center">45210817</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-05-14" target="_blank">
+			2019-05-14			</a>
+</div></td>
+<td><div align="center">0.498</div></td>
+<td><div align="center">0.501</div></td>
+<td><div align="center">0.499</div></td>
+<td class="tdr"><div align="center">0.496</div></td>
+<td class="tdr"><div align="center">124375212</div></td>
+<td class="tdr"><div align="center">62061038</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-05-13" target="_blank">
+			2019-05-13			</a>
+</div></td>
+<td><div align="center">0.505</div></td>
+<td><div align="center">0.507</div></td>
+<td><div align="center">0.507</div></td>
+<td class="tdr"><div align="center">0.504</div></td>
+<td class="tdr"><div align="center">49409993</div></td>
+<td class="tdr"><div align="center">24984112</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-05-10" target="_blank">
+			2019-05-10			</a>
+</div></td>
+<td><div align="center">0.504</div></td>
+<td><div align="center">0.509</div></td>
+<td><div align="center">0.507</div></td>
+<td class="tdr"><div align="center">0.500</div></td>
+<td class="tdr"><div align="center">110956723</div></td>
+<td class="tdr"><div align="center">56093891</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-05-09" target="_blank">
+			2019-05-09			</a>
+</div></td>
+<td><div align="center">0.505</div></td>
+<td><div align="center">0.505</div></td>
+<td><div align="center">0.501</div></td>
+<td class="tdr"><div align="center">0.500</div></td>
+<td class="tdr"><div align="center">78201199</div></td>
+<td class="tdr"><div align="center">39210523</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-05-08" target="_blank">
+			2019-05-08			</a>
+</div></td>
+<td><div align="center">0.503</div></td>
+<td><div align="center">0.508</div></td>
+<td><div align="center">0.506</div></td>
+<td class="tdr"><div align="center">0.502</div></td>
+<td class="tdr"><div align="center">49249848</div></td>
+<td class="tdr"><div align="center">24913032</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-05-07" target="_blank">
+			2019-05-07			</a>
+</div></td>
+<td><div align="center">0.504</div></td>
+<td><div align="center">0.510</div></td>
+<td><div align="center">0.509</div></td>
+<td class="tdr"><div align="center">0.503</div></td>
+<td class="tdr"><div align="center">75034810</div></td>
+<td class="tdr"><div align="center">38089449</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-05-06" target="_blank">
+			2019-05-06			</a>
+</div></td>
+<td><div align="center">0.500</div></td>
+<td><div align="center">0.504</div></td>
+<td><div align="center">0.499</div></td>
+<td class="tdr"><div align="center">0.498</div></td>
+<td class="tdr"><div align="center">182880798</div></td>
+<td class="tdr"><div align="center">91501130</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-04-30" target="_blank">
+			2019-04-30			</a>
+</div></td>
+<td><div align="center">0.522</div></td>
+<td><div align="center">0.527</div></td>
+<td><div align="center">0.526</div></td>
+<td class="tdr"><div align="center">0.522</div></td>
+<td class="tdr"><div align="center">45572117</div></td>
+<td class="tdr"><div align="center">23909070</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-04-29" target="_blank">
+			2019-04-29			</a>
+</div></td>
+<td><div align="center">0.527</div></td>
+<td><div align="center">0.528</div></td>
+<td><div align="center">0.519</div></td>
+<td class="tdr"><div align="center">0.519</div></td>
+<td class="tdr"><div align="center">70663075</div></td>
+<td class="tdr"><div align="center">37068435</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-04-26" target="_blank">
+			2019-04-26			</a>
+</div></td>
+<td><div align="center">0.535</div></td>
+<td><div align="center">0.536</div></td>
+<td><div align="center">0.533</div></td>
+<td class="tdr"><div align="center">0.532</div></td>
+<td class="tdr"><div align="center">73661600</div></td>
+<td class="tdr"><div align="center">39312769</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-04-25" target="_blank">
+			2019-04-25			</a>
+</div></td>
+<td><div align="center">0.539</div></td>
+<td><div align="center">0.543</div></td>
+<td><div align="center">0.543</div></td>
+<td class="tdr"><div align="center">0.538</div></td>
+<td class="tdr"><div align="center">66674759</div></td>
+<td class="tdr"><div align="center">36009145</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-04-24" target="_blank">
+			2019-04-24			</a>
+</div></td>
+<td><div align="center">0.549</div></td>
+<td><div align="center">0.550</div></td>
+<td><div align="center">0.546</div></td>
+<td class="tdr"><div align="center">0.546</div></td>
+<td class="tdr"><div align="center">70373685</div></td>
+<td class="tdr"><div align="center">38506132</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-04-23" target="_blank">
+			2019-04-23			</a>
+</div></td>
+<td><div align="center">0.546</div></td>
+<td><div align="center">0.555</div></td>
+<td><div align="center">0.553</div></td>
+<td class="tdr"><div align="center">0.546</div></td>
+<td class="tdr"><div align="center">174218154</div></td>
+<td class="tdr"><div align="center">95833751</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-04-22" target="_blank">
+			2019-04-22			</a>
+</div></td>
+<td><div align="center">0.532</div></td>
+<td><div align="center">0.545</div></td>
+<td><div align="center">0.539</div></td>
+<td class="tdr"><div align="center">0.532</div></td>
+<td class="tdr"><div align="center">130350748</div></td>
+<td class="tdr"><div align="center">70216814</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-04-19" target="_blank">
+			2019-04-19			</a>
+</div></td>
+<td><div align="center">0.528</div></td>
+<td><div align="center">0.530</div></td>
+<td><div align="center">0.529</div></td>
+<td class="tdr"><div align="center">0.527</div></td>
+<td class="tdr"><div align="center">36416906</div></td>
+<td class="tdr"><div align="center">19257760</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-04-18" target="_blank">
+			2019-04-18			</a>
+</div></td>
+<td><div align="center">0.533</div></td>
+<td><div align="center">0.533</div></td>
+<td><div align="center">0.530</div></td>
+<td class="tdr"><div align="center">0.530</div></td>
+<td class="tdr"><div align="center">49407114</div></td>
+<td class="tdr"><div align="center">26232114</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-04-17" target="_blank">
+			2019-04-17			</a>
+</div></td>
+<td><div align="center">0.535</div></td>
+<td><div align="center">0.536</div></td>
+<td><div align="center">0.536</div></td>
+<td class="tdr"><div align="center">0.534</div></td>
+<td class="tdr"><div align="center">58039854</div></td>
+<td class="tdr"><div align="center">31042178</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-04-16" target="_blank">
+			2019-04-16			</a>
+</div></td>
+<td><div align="center">0.531</div></td>
+<td><div align="center">0.533</div></td>
+<td><div align="center">0.532</div></td>
+<td class="tdr"><div align="center">0.531</div></td>
+<td class="tdr"><div align="center">55688801</div></td>
+<td class="tdr"><div align="center">29622445</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-04-15" target="_blank">
+			2019-04-15			</a>
+</div></td>
+<td><div align="center">0.535</div></td>
+<td><div align="center">0.535</div></td>
+<td><div align="center">0.533</div></td>
+<td class="tdr"><div align="center">0.531</div></td>
+<td class="tdr"><div align="center">108664207</div></td>
+<td class="tdr"><div align="center">57927781</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-04-12" target="_blank">
+			2019-04-12			</a>
+</div></td>
+<td><div align="center">0.522</div></td>
+<td><div align="center">0.525</div></td>
+<td><div align="center">0.524</div></td>
+<td class="tdr"><div align="center">0.522</div></td>
+<td class="tdr"><div align="center">36762931</div></td>
+<td class="tdr"><div align="center">19252452</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-04-11" target="_blank">
+			2019-04-11			</a>
+</div></td>
+<td><div align="center">0.529</div></td>
+<td><div align="center">0.530</div></td>
+<td><div align="center">0.527</div></td>
+<td class="tdr"><div align="center">0.526</div></td>
+<td class="tdr"><div align="center">53481075</div></td>
+<td class="tdr"><div align="center">28246361</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-04-10" target="_blank">
+			2019-04-10			</a>
+</div></td>
+<td><div align="center">0.524</div></td>
+<td><div align="center">0.525</div></td>
+<td><div align="center">0.524</div></td>
+<td class="tdr"><div align="center">0.522</div></td>
+<td class="tdr"><div align="center">63960321</div></td>
+<td class="tdr"><div align="center">33499492</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-04-09" target="_blank">
+			2019-04-09			</a>
+</div></td>
+<td><div align="center">0.532</div></td>
+<td><div align="center">0.533</div></td>
+<td><div align="center">0.530</div></td>
+<td class="tdr"><div align="center">0.530</div></td>
+<td class="tdr"><div align="center">79846377</div></td>
+<td class="tdr"><div align="center">42416709</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-04-08" target="_blank">
+			2019-04-08			</a>
+</div></td>
+<td><div align="center">0.525</div></td>
+<td><div align="center">0.528</div></td>
+<td><div align="center">0.527</div></td>
+<td class="tdr"><div align="center">0.525</div></td>
+<td class="tdr"><div align="center">113630566</div></td>
+<td class="tdr"><div align="center">59820106</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-04-04" target="_blank">
+			2019-04-04			</a>
+</div></td>
+<td><div align="center">0.511</div></td>
+<td><div align="center">0.513</div></td>
+<td><div align="center">0.512</div></td>
+<td class="tdr"><div align="center">0.509</div></td>
+<td class="tdr"><div align="center">113089060</div></td>
+<td class="tdr"><div align="center">57729038</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-04-03" target="_blank">
+			2019-04-03			</a>
+</div></td>
+<td><div align="center">0.520</div></td>
+<td><div align="center">0.521</div></td>
+<td><div align="center">0.521</div></td>
+<td class="tdr"><div align="center">0.518</div></td>
+<td class="tdr"><div align="center">80225197</div></td>
+<td class="tdr"><div align="center">41647794</div></td>
+</tr>
+<tr class="tr_2">
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-04-02" target="_blank">
+			2019-04-02			</a>
+</div></td>
+<td><div align="center">0.524</div></td>
+<td><div align="center">0.525</div></td>
+<td><div align="center">0.521</div></td>
+<td class="tdr"><div align="center">0.520</div></td>
+<td class="tdr"><div align="center">77953816</div></td>
+<td class="tdr"><div align="center">40698033</div></td>
+</tr>
+<tr>
+<td><div align="center">
+<a href="http://vip.stock.finance.sina.com.cn/quotes_service/view/vMS_tradehistory.php?symbol=sz162411&amp;date=2019-04-01" target="_blank">
+			2019-04-01			</a>
+</div></td>
+<td><div align="center">0.514</div></td>
+<td><div align="center">0.520</div></td>
+<td><div align="center">0.520</div></td>
+<td class="tdr"><div align="center">0.514</div></td>
+<td class="tdr"><div align="center">114802172</div></td>
+<td class="tdr"><div align="center">59267626</div></td>
+</tr>
+</table>
+</div>
+<script language="javascript" type="text/javascript">
+			romanceTables(["FundHoldSharesTable"]);
+		</script>
+<!--ÀúÊ·½»Ò×end-->
+</div>
+<!-- ÓÃÀ´½â¾öÕû¸öwrap¸ß¶ÈÏÔÊ¾µÄÎÊÌâ -->
+<style type="text/css">
+#wrap{overflow:hidden;}
+</style>
+<!--</div>-->
+<div class="clearit"></div>
+</div>
+</div>
+<!-- ÖÐ¼ä end -->
+</div>
+<!-- Ê×Ò³±ê×¼Î²_START -->
+<!--footer 2017 -->
+<div class="footer" style="">
+    ¿Í»§·þÎñÈÈÏß£º4000520066¡¡¡¡
+    »¶Ó­ÅúÆÀÖ¸Õý    <br/>
+<a href="http://tech.sina.com.cn/focus/sinahelp.shtml" target="_blank">³£¼ûÎÊÌâ½â´ð</a>
+<a href="http://net.china.cn/chinese/index.htm" target="_blank">»¥ÁªÍøÎ¥·¨ºÍ²»Á¼ÐÅÏ¢¾Ù±¨</a>¡¡
+    <a href="https://gu.sina.cn/pc/feedback/" target="_blank">ÐÂÀË²Æ¾­Òâ¼û·´À¡ÁôÑÔ°å</a>
+<br/><br/>
+<a href="http://corp.sina.com.cn/chn/">ÐÂÀË¼ò½é</a> | <a href="http://corp.sina.com.cn/eng/">About Sina</a> | <a href="http://emarketing.sina.com.cn/">¹ã¸æ·þÎñ</a> | <a href="http://www.sina.com.cn/contactus.html">ÁªÏµÎÒÃÇ</a> | <a href="http://corp.sina.com.cn/chn/sina_job.html">ÕÐÆ¸ÐÅÏ¢</a> | <a href="http://www.sina.com.cn/intro/lawfirm.shtml">ÍøÕ¾ÂÉÊ¦</a> | <a href="http://english.sina.com">SINA English</a> | <a href="http://members.sina.com.cn/apply/">Í¨ÐÐÖ¤×¢²á</a> | <a href="http://help.sina.com.cn/">²úÆ·´ðÒÉ</a><br/><br/>ÐÂÀË¹«Ë¾¡¡<a href="http://www.sina.com.cn/intro/copyright.shtml" target="_blank">°æÈ¨ËùÓÐ</a>
+<br/><br/><span style="color:#aaa;">ÐÂÀË²Æ¾­Ãâ·ÑÌá¹©¹ÉÆ±¡¢»ù½ð¡¢Õ®È¯¡¢Íâ»ãµÈÐÐÇéÊý¾ÝÒÔ¼°ÆäËû×ÊÁÏ¾ùÀ´×ÔÏà¹ØºÏ×÷·½£¬½ö×÷ÎªÓÃ»§»ñÈ¡ÐÅÏ¢Ö®Ä¿µÄ£¬²¢²»¹¹³ÉÍ¶×Ê½¨Òé¡£<br/>ÐÂÀË²Æ¾­ÒÔ¼°ÆäºÏ×÷»ú¹¹²»Îª±¾Ò³ÃæÌá¹©ÐÅÏ¢µÄ´íÎó¡¢²ÐÈ±¡¢ÑÓ³Ù»òÒòÒÀ¿¿´ËÐÅÏ¢Ëù²ÉÈ¡µÄÈÎºÎÐÐ¶¯¸ºÔð¡£ÊÐ³¡ÓÐ·çÏÕ£¬Í¶×ÊÐè½÷É÷¡£</span>
+</div>
+<style type="text/css">
+    .footer{margin:0 auto;text-align:center; padding:20px 0; margin-top:30px; color: #333;border-top: solid 1px #e1e1e1;}
+    .footer a:link,.footer a:visited{color: #333;}
+    .footer a:hover, .footer a:active, .footer a:focus { color: #3b67cb; text-decoration: none;  }
+</style>
+<!-- SUDA_CODE_START -->
+<script src="//www.sinaimg.cn/unipro/pub/suda_s_v851c.js" type="text/javascript"></script>
+<script type="text/javascript">
+    _S_pSt(_S_PID_);
+</script>
+<!-- SUDA_CODE_END --><!-- Ê×Ò³±ê×¼Î²_END -->
+<!-- suggest -->
+<script src="http://finance.sina.com.cn/iframe/nza_self.js" type="text/javascript"></script>
+<script id="recscript" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+<!--//--><![CDATA[//><!--
+/* Õû¸öÒ³Ãæjs¿ªÊ¼ÔË */
+var App = new S_Finance.App(fullcode);
+// try{var App = new S_Finance.App(fullcode);}catch(er){}
+// --><!]]>
+</script>
+<!-- START WRating v1.0 -->
+<!-- END WRating v1.0 -->
+<!-- SUDA_CODE_START -->
+<script src="http://www.sinaimg.cn/unipro/pub/suda_s_v839c.js" type="text/javascript"></script>
+<script type="text/javascript"> 
+_S_pSt(_S_PID_); 
+</script>
+<!-- SUDA_CODE_END -->
+</body>
+</html>

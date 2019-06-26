@@ -1,0 +1,1135 @@
+<html><body><p>ï»¿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+</p>
+<title>ä¸è¯ææ°(000001) _ è¡ç¥¨è¡æ _ ä¸æ¹è´¢å¯ç½</title>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<meta content="ä¸è¯ææ°,000001,ä¸æ¹è´¢å¯ç½,å¤§çææ°,ä¸ªè¡,è¡ç¥¨,è¡æ,å¤§ç,ææ°,æ¿å,æè¯,åºé,ç»¼åæè¡,èªéè¡,é«éè¡æ" name="keywords"/>
+<meta content="æä¾ä¸è¯ææ°(000001)çè¡æèµ°å¿ãèµéæµåãè¡ä¸æ¦å¿µæ¿åæè¡ãæä»½è¡æè¡ãå¤§çåæãè¯å¸è¦é»ãå¸åºæ»è²ãè¡å§äºå¨ç­ä¸ä¸è¯ææ°(000001)æå³çä¿¡æ¯åæå¡ã" name="description"/>
+<meta content="480" http-equiv="refresh"/>
+<meta content="151019" name="publishid"/><!--published at 2019-06-23 23:03:50-->
+<link href="http://hqres.eastmoney.com/EMQuote_Lib/css/qphf.css?v=20190430" rel="stylesheet"/>
+<link charset="utf-8" href="http://hqres.eastmoney.com/EM15AGIndex/css/style.css?v=2019061701" rel="stylesheet"/>
+<script charset="gb2312" src="http://hqres.eastmoney.com/EMQuote_Lib/js/qphf.js?v=20190430" type="text/javascript"></script>
+<script charset="gb2312" src="http://hqres.eastmoney.com/EMQuote_Lib/js/HisAcc.js" type="text/javascript"></script>
+<script charset="gb2312" src="http://hqres.eastmoney.com/emag14/js/suggest.js" type="text/javascript"></script>
+<script src="http://hqres.eastmoney.com/EM15AGIndex/js/chart.js?v=20190618" type="text/javascript"></script>
+<script charset="UTF-8" type="text/javascript">
+        var emtj_isUpload = 1;
+        var emtj_pageId = 113200301324; // åªä¿®æ¹æ­¤å¤
+        var emtj_logSet = "1111111111";
+        var emtj_sampleRate = 1;
+    </script>
+<style>
+        .picrbox a:hover,.tox a:hover{
+            color:#cdd4d8;
+        }
+        .picrbox,.pickbox .tox{
+            position:relative;
+        }
+        a.xbQoute {
+            color: #cdd4d8;
+            opacity: .6;
+            filter: alpha(opacity=60);
+            text-decoration: none;
+        }
+        .r_xbQoute {
+            top: 78px;
+        }
+        .xbQoute {
+            position: absolute;
+            left: 206px;
+            z-index: 99;
+            font-weight: 700;
+            font-size: 20px;
+            font-family: Microsoft YaHei;
+        }
+        .k_xbQoute {
+             top: 94px;
+        }
+		#emchart-k {
+            position:relative;
+        }
+    </style>
+<div class="qphox">
+<div class="tmbox">
+<ul><li><a href="http://finance.eastmoney.com/" target="_blank">è´¢ç»</a></li><li class="i">|</li><li><a href="http://finance.eastmoney.com/yaowen.html" target="_blank">è¦é»</a></li><li class="i">|</li><li><a href="http://stock.eastmoney.com/" target="_blank">è¡ç¥¨</a></li><li class="i">|</li><li><span class="red"><a href="http://stock.eastmoney.com/newstock.html" target="_blank">æ°è¡</a></span></li><li class="i">|</li><li><a href="http://stock.eastmoney.com/gzqh.html" target="_blank">ææ</a></li><li class="i">|</li><li><a href="http://option.eastmoney.com/" target="_blank">ææ</a></li><li class="i">|</li><li><span class="red"><a href="http://quote.eastmoney.com/flash/sz300059.html" target="_blank">è¡æ</a></span></li><li class="i">|</li><li><a href="http://data.eastmoney.com/" target="_blank">æ°æ®</a></li><li class="i">|</li><li><a href="http://stock.eastmoney.com/global.html" target="_blank">å¨ç</a></li><li class="i">|</li><li><a href="http://stock.eastmoney.com/america.html" target="_blank">ç¾è¡</a></li><li class="i">|</li><li><a href="http://hk.eastmoney.com/" target="_blank">æ¸¯è¡</a></li><li class="i">|</li><li><a href="http://futures.eastmoney.com/" target="_blank">æè´§</a></li><li class="i">|</li><li><a href="http://forex.eastmoney.com/" target="_blank">å¤æ±</a></li><li class="i">|</li><li><a href="http://bank.eastmoney.com/" target="_blank">é¶è¡</a></li><li class="i">|</li><li><a href="http://www.1234567.com.cn/" target="_blank">åºé</a></li><li class="i">|</li><li><a href="http://money.eastmoney.com/" target="_blank">çè´¢</a></li><li class="i">|</li><li><a href="http://bond.eastmoney.com/" target="_blank">åºå¸</a></li><li class="i">|</li><li><a href="http://video.eastmoney.com/" target="_blank">è§é¢</a></li><li class="i">|</li><li><span class="red"><a href="http://guba.eastmoney.com/" target="_blank">è¡å§</a></span></li><li class="i">|</li><li><a href="http://fund2.eastmoney.com/" target="_blank">åºéå§</a></li><li class="i">|</li><li><a href="http://blog.eastmoney.com/" target="_blank">åå®¢</a></li><li class="i">|</li><li><span class="red"><a href="http://caifuhao.eastmoney.com/" target="_blank">è´¢å¯å·</a></span></li><li class="i">|</li><li><a href="http://so.eastmoney.com/" target="_blank">æç´¢</a></li></ul>
+</div>
+</div>
+<div class="qphox">
+<div class="QVspace"></div>
+<div class="adbox" id="ifhqheadad">
+<ul>
+<li><!-- AdSame ShowCode: ä¸æ¹è´¢å¯ç½ / è¡æ / è¡æä¸å±å·¦æé® Begin -->
+<iframe frameborder="0" height="90" id="Iframe1" marginheight="0" marginwidth="0" scrolling="no" src="http://same.eastmoney.com/s?z=eastmoney&amp;c=22&amp;op=1" width="175"></iframe>
+<!-- AdSame ShowCode: ä¸æ¹è´¢å¯ç½ / è¡æ / è¡æä¸å±å·¦æé® End --></li>
+<li id="ov10" style="width:636px;height:90px;"><!-- AdSame ShowCode: ä¸æ¹è´¢å¯ç½ / è¡æ / è¡æä¸å±å³æé® Begin -->
+<iframe frameborder="0" height="90" id="Iframe2" marginheight="0" marginwidth="0" scrolling="no" src="http://same.eastmoney.com/s?z=eastmoney&amp;c=174&amp;op=1" width="636"></iframe>
+<!-- AdSame ShowCode: ä¸æ¹è´¢å¯ç½ / è¡æ / è¡æä¸å±å³æé® End --></li>
+<li class="last"><!-- AdSame ShowCode: ä¸æ¹è´¢å¯ç½ / è¡æ / è¡æä¸å±å³æé® Begin -->
+<iframe frameborder="0" height="90" id="Iframe3" marginheight="0" marginwidth="0" scrolling="no" src="http://same.eastmoney.com/s?z=eastmoney&amp;c=23&amp;op=1" width="175"></iframe>
+<!-- AdSame ShowCode: ä¸æ¹è´¢å¯ç½ / è¡æ / è¡æä¸å±å³æé® End --></li>
+</ul>
+</div>
+</div>
+<div class="qphox">
+<div class="QVspace"></div>
+<div class="lgbox">
+<div class="lbox">
+<div class="logo "><a href="http://www.eastmoney.com" target="_blank"><span title="ä¸æ¹è´¢å¯ç½"></span></a><a href="http://quote.eastmoney.com/center/" target="_blank"><span title="è¡æä¸­å¿"></span></a></div>
+<div class="ogo">
+<ul>
+<li><div class="a"></div><a href="http://kuaixun.eastmoney.com/" target="_blank">å¨çè´¢ç»å¿«è®¯</a></li>
+<li><div class="b"></div><a href="http://data.eastmoney.com/center/" target="_blank">æ°æ®ä¸­å¿</a></li>
+<li><div class="c"></div><a href="http://wap.eastmoney.com/" target="_blank">ææºç«</a></li>
+<li><div class="d"></div><a href="https://acttg.eastmoney.com/pub/pctg_hskh_act_gfcgrj_01_01_01_0" target="_blank">å®¢æ·ç«¯</a></li>
+<li><div class="e"></div><a href="http://choice.eastmoney.com/?adid=953" target="_blank">Choiceæ°æ®</a></li>
+<li class="last"><div class="f"></div><a href="http://fundact.eastmoney.com/app/?spm=100003.mjj" target="_blank">ææºä¹°åºé çå¸èµä¸å&gt;</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="qphox">
+<div class="QVspace"></div>
+<div class="mainnbox">
+<div class="title"><div class="tit"><b></b><div class="nm"><a href="http://quote.eastmoney.com/center/" target="_blank">è¡æä¸­å¿</a></div></div></div>
+<div class="qmbox">
+<div class="nbox">
+<div class="lbox">
+<ul>
+<li><a href="http://quote.eastmoney.com/center/index.html#zyzs_0_1" target="_blank">ææ°</a></li><li>|</li>
+<li><a href="http://js1.eastmoney.com/tg.aspx?ID=655" target="_blank">ææ</a></li><li>|</li>
+<li><a href="http://quote.eastmoney.com/center/qiquan.html#1,510050,0_13_0" target="_blank">ææ</a></li><li>|</li>
+<li><a href="http://quote.eastmoney.com/" target="_blank">ä¸ªè¡</a></li><li>|</li>
+<li><a href="http://quote.eastmoney.com/center/BanKuai.html#_0_2" target="_blank">æ¿å</a></li><li>|</li>
+<li><a href="http://quote.eastmoney.com/center/paihang.html#paihang_0_0" target="_blank">æè¡</a></li><li>|</li>
+<li><a href="http://quote.eastmoney.com/center/list.html#285001_0" target="_blank">æ°è¡</a></li><li>|</li>
+<li><a href="http://quote.eastmoney.com/center/fund.html#_4" target="_blank">åºé</a></li><li>|</li>
+<li><a href="http://quote.eastmoney.com/center/hkstock.html#_1" target="_blank">æ¸¯è¡</a></li><li>|</li>
+<li><a href="http://quote.eastmoney.com/center/usstock.html#_2" target="_blank">ç¾è¡</a></li><li>|</li>
+<li><a href="http://quote.eastmoney.com/center/futures.html#_5" target="_blank">æè´§</a></li><li>|</li>
+<li><a href="http://quote.eastmoney.com/center/forex.html#_6" target="_blank">å¤æ±</a></li><li>|</li>
+<li><a href="http://quote.eastmoney.com/center/gold.html#_7" target="_blank">é»é</a></li><li>|</li>
+<li><a href="http://quote.eastmoney.com/favor/default.html" target="_blank">èªéè¡</a></li><li>|</li>
+<li><a href="http://fund.eastmoney.com/favor.html" target="_blank">èªéåºé</a></li>
+</ul>
+</div>
+<div class="rbox">
+<form class="search-box" method="get" target="_blank">
+<input id="search_box" name="StockCode" type="text"/><input type="submit" value="æç´¢"/>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="qphox">
+<div class="aide">
+<div class="global">
+<div class="lbox"><div class="tit"><b></b><a href="http://quote.eastmoney.com/center/global.html#global_3" target="_blank">å¨çè¡å¸</a></div></div>
+<div class="mbox"><b class="up" id="btn_down" title="ä¸æ»"></b><b class="down" id="btn_up" title="ä¸æ»"></b></div>
+<div class="rbox">
+<div id="qqgscont" xvs="0">
+<ul><li><a class="blue" href="http://quote.eastmoney.com/zs000001.html" target="_blank"><strong>ä¸è¯</strong></a>ï¼<span><b>-</b> <b>-</b> <b>-</b></span>(æ¶¨:<b>-</b>å¹³:<b>-</b> è·:<b>-</b>)<a class="blue" href="http://quote.eastmoney.com/zs399001.html" target="_blank"><strong>æ·±è¯</strong></a>ï¼<span><b>-</b> <b>-</b> <b>-</b></span>(æ¶¨:<b>-</b>å¹³:<b>-</b> è·:<b>-</b>)</li></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="qphox">
+<div class="aide nt">
+<div class="dcer">
+<div class="lbox"><div class="tit"><b></b><a href="http://js1.eastmoney.com/tg.aspx?ID=517" target="_blank">æ°æ®ä¸­å¿</a></div></div>
+<div class="rbox">
+<ul><li><a href="http://js1.eastmoney.com/tg.aspx?ID=520" target="_blank">æ°è¡ç³è´­</a></li><li><a href="http://js1.eastmoney.com/tg.aspx?ID=522" target="_blank">æ°è¡æ¥å</a></li><li><a href="http://js1.eastmoney.com/tg.aspx?ID=525" target="_blank">èµéæµå</a></li><li><a class="red" href="http://quote.eastmoney.com/center/list.html#ah_1	" target="_blank">AHè¡æ¯ä»·</a></li><li><a href="http://js1.eastmoney.com/tg.aspx?ID=540" target="_blank">ä¸»åæå</a></li><li><a href="http://js1.eastmoney.com/tg.aspx?ID=615" target="_blank">æ¿åèµé</a></li><li><a href="http://js1.eastmoney.com/tg.aspx?ID=616" target="_blank">ä¸ªè¡ç æ¥</a></li><li><a href="http://js1.eastmoney.com/tg.aspx?ID=631" target="_blank">è¡ä¸ç æ¥</a></li><li><a href="http://js1.eastmoney.com/tg.aspx?ID=635" target="_blank">çå©é¢æµ</a></li><li><a href="http://data.eastmoney.com/stockcomment/" target="_blank">åè¡åè¯</a></li><li><a href="http://data.eastmoney.com/bbsj/" target="_blank">å¹´æ¥å­£æ¥</a></li><li><a href="http://js1.eastmoney.com/tg.aspx?ID=693" target="_blank">é¾èæ¦å</a></li><li><a href="http://js1.eastmoney.com/tg.aspx?ID=695" target="_blank">éå®è§£ç¦</a></li><li><a href="http://js1.eastmoney.com/tg.aspx?ID=731" target="_blank">å¤§å®äº¤æ</a></li><li><a href="http://js1.eastmoney.com/tg.aspx?ID=748" target="_blank">æææä»</a></li><li class="last"><a href="http://js1.eastmoney.com/tg.aspx?ID=609" target="_blank">èèµèå¸</a></li></ul>
+</div>
+</div>
+</div>
+</div>
+<div class="qphox">
+<div class="aide nt">
+<div class="hgt">
+<div class="lbox"><div class="tit"><b></b><a href="http://quote.eastmoney.com/center/hgtstock.html#_12" target="_blank">æ²ªæ·±æ¸¯é</a></div></div>
+<div class="rbox">
+<div style="margin-left: 2px; float: left; padding: 0 2px; width: 215px; text-align: center; position: relative;">
+<a class="sg" href="http://quote.eastmoney.com/center/list.html#28003707_12_2" target="_blank">æ²ªè¡é</a>
+<span class="run" id="hgtrun"></span><a href="http://data.eastmoney.com/hsgt/index.html" style="color: #039;text-decoration: underline;" target="_blank">èµéæµå¥</a><span id="hgtzj" style="text-decoration: underline;">-</span>
+<span class="lx" style="position: absolute; right: 0;">|</span>
+</div>
+<div style="float: left; padding: 0 2px; width: 215px; text-align: center; position: relative;">
+<a class="sg" href="http://quote.eastmoney.com/center/list.html#28013804_12_3" target="_blank">æ·±è¡é</a>
+<span class="run" id="sgtrun"></span><a href="http://data.eastmoney.com/hsgt/index.html" style="color: #039;text-decoration: underline;" target="_blank">èµéæµå¥</a><span id="sgtzj" style="text-decoration: underline;">-</span>
+<span class="lx" style="position: absolute; right: 0;">|</span>
+</div>
+<div style="float: left; padding: 0 2px; width: 232px; text-align: center; position: relative;">
+<a class="sg" href="http://quote.eastmoney.com/center/list.html#mk0144_12" target="_blank">æ¸¯è¡é(æ²ª)</a>
+<span class="run" id="ggthrun"></span><a href="http://data.eastmoney.com/hsgt/index.html" style="color: #039;text-decoration: underline;" target="_blank">èµéæµå¥</a><span id="ggthzj" style="text-decoration: underline;">-</span>
+<span class="lx" style="position: absolute; right: 0;">|</span>
+</div>
+<div style="float: left;  padding: 0 2px; width: 232px; text-align: center; position: relative;">
+<a class="sg" href="http://quote.eastmoney.com/center/list.html#mk0146_12" target="_blank">æ¸¯è¡é(æ·±)</a>
+<span class="run" id="ggtsrun"></span><a href="http://data.eastmoney.com/hsgt/index.html" style="color: #039;text-decoration: underline;" target="_blank">èµéæµå¥</a><span id="ggtszj" style="text-decoration: underline;">-</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="qphox">
+<div class="aide nb">
+<div class="hisacc">
+<div class="tit" id="histit">æè¿è®¿é®ï¼</div>
+<div class="list tile" id="historyest"></div>
+<div class="tb1105">
+<div class="zuhe">
+<span class="lks"><a class="a" href="http://group.eastmoney.com/index.html" target="_blank"><b></b>æèµç»å</a>:</span>
+<ul id="zhrool" onmouseout="iScrollAmount=1" onmouseover="iScrollAmount=0" style="width:110px;height:28px;overflow:hidden;"></ul>
+</div>
+<div class="bglc">
+<span class="lks">
+<a class="b" href="http://js1.eastmoney.com/tg.aspx?ID=3979" target="_blank">
+<b></b>å¤´æ¡
+                        </a>:
+                    </span><a class="red" href="http://js1.eastmoney.com/tg.aspx?ID=3979" id="head_toutiao" target="_blank" title="">-</a>
+<div id="ieTt" style="display:none;"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script language="JavaScript" type="text/javascript">
+    
+    var oMarquee = document.getElementById("zhrool");var iLineHeight = 28;var iLineCount = 1;var iScrollAmount = 1;
+    
+    
+    setTimeout(function() {
+        /*if (typeof suggest2017 === "function") {
+            var suggest = new suggest2017({
+                inputid: "search_box",
+                offset: { left: -90, top: 5 }
+            });
+        }
+        var ss = new StockSuggest("StockCode", arg);*/
+         
+         qphf.getIndexQuote(20);
+         
+         var arg = { def: "", set: "",lns:0 }; var HV = new HistoryViews("historyest", arg);
+         
+        
+     }, 500);
+</script>
+<div class="qphox header-title mb7">
+<h2 class="header-title-h2 fl" id="name">ä¸è¯ææ°</h2>
+<b class="header-title-c fl" id="code">000001</b>
+<span class="hqstat" id="hqstat"></span>
+<span class="hqday" id="hqday"></span>
+<div class="header-title-btns-mg">
+<a class="header-title-a" href="http://guba.eastmoney.com/list,zssh000001.html" target="_blank">ä¸è¯ææ°å§</a>
+<a class="header-title-a" href="http://data.eastmoney.com/rzrq/sh.html" target="_blank">èèµèå¸</a>
+<a class="header-title-a" href="http://data.eastmoney.com/stock/lhb.html" target="_blank">é¾èæ¦å</a>
+<a class="header-title-a" href="http://data.eastmoney.com/executive/" target="_blank">é«ç®¡æè¡</a>
+<a class="header-title-a" href="http://data.eastmoney.com/zlsj/" target="_blank">ä¸»åæ°æ®</a>
+</div>
+</div>
+<div class="qphox layout mb7">
+<div class="fl xt1 data-left">
+<div class="hq_cr" id="hq_cr" style="display:none;"><span class="hq_cr_a" id="hq_cr_type">çæ­</span><span class="hq_cr_b"><b id="hq_cr_time">æåäº¤æ</b></span><span class="hq_cr_c"><b id="hq_cr_b"></b><span class="hq_cr_tips" id="hq_cr_tips"><span id="hq_cr_cnt"></span><i class="hq_cr_close" id="hq_cr_close" title="å³é­"></i><i class="hq_cr_tips"></i></span></span></div>
+<div id="arrowud" xid="0">
+<span class="ar a"><strong class="xp1" id="price9" style="">--</strong><i class="xp2" id="arrow-find"></i></span>
+<span class="ar b"><b class="xp3" id="km1" style="">--</b><b class="xp4" id="km2" style="">--</b></span>
+</div>
+</div>
+<div class="fr quote_right"><div id="rstocka"></div><div id="rstockinfo"><span id="rstockb"></span><span id="rstockc"></span></div></div>
+<div class="data-middle">
+<table cellpadding="0" cellspacing="0" class="yfw">
+<tr>
+<td>ä»å¼ï¼</td><td class="txtl" id="gt1">-</td>
+<td>æé«ï¼</td><td class="txtl" id="gt2">-</td>
+<td>æ¶¨è·å¹ï¼</td><td class="txtl" id="gt3">-</td>
+<td>æ¢æï¼</td><td class="txtl" id="gt4">-</td>
+<td>æäº¤éï¼</td><td class="txtl" id="gt5">-</td>
+</tr>
+<tr>
+<td>æ¨æ¶ï¼</td><td class="txtl" id="gt7">-</td>
+<td>æä½ï¼</td><td class="txtl" id="gt8">-</td>
+<td>æ¶¨è·é¢ï¼</td><td class="txtl" id="gt9">-</td>
+<td>æ¯å¹ï¼</td><td class="txtl" id="gt10">-</td>
+<td>æäº¤é¢ï¼</td><td class="txtl" id="gt11">-</td>
+</tr>
+</table>
+<form action="http://vote.eastmoney.com/" method="get" target="_blank">
+<table cellpadding="0" cellspacing="0" class="vt">
+<tr>
+<th>å¤ç©ºè°æ¥</th>
+<td><label><input checked="checked" name="radio1" type="radio" value="1"/>çæ¶¨</label><span class="bgred" style="width:35.385px"></span><b>615</b></td>
+<td><label><input name="radio1" type="radio" value="3"/>çè·</label><span class="bggreen" style="width:12.14px"></span><b>211</b></td>
+<td><label><input name="radio1" type="radio" value="2"/>çæ´</label><span class="bggray" style="width:2.475px"></span><b>43</b></td>
+<td class="smt"><button class="tp" style="cursor: pointer;" type="submit">æ  ç¥¨</button></td>
+<td class="smt"><div class="ck" id="lookVote0" style="cursor: pointer;">æ¥ç</div></td>
+</tr>
+</table>
+</form>
+</div>
+</div>
+<div class="qphox layout mb7">
+<ul class="gsbw">
+<li class="tit">è¡å¸å¤å¿</li>
+<li><a href="http://stock.eastmoney.com/news/cjyts.html" target="_blank">äº¤ææç¤º</a></li>
+<li><a href="http://stock.eastmoney.com/news/cscyw.html" target="_blank">å¸åºè¦é»</a></li>
+<li><a href="http://stock.eastmoney.com/news/cyzbw.html" target="_blank">ä¸å¨å¤å¿</a></li>
+<li><a href="http://data.eastmoney.com/notice/" target="_blank">ä¸¤å¸å¬å</a></li>
+<li><a href="http://data.eastmoney.com/tfpxx/" target="_blank">ä¸¤å¸åç</a></li>
+<li><a href="http://stock.eastmoney.com/news/cbktt.html" target="_blank">æ¥åå¤´æ¡</a></li>
+<li><a href="http://stock.eastmoney.com/news/cwjkx.html" target="_blank">æé´å¿«è®¯</a></li>
+<li><a href="http://data.eastmoney.com/report/ylyc.html" target="_blank">çå©é¢æµ</a></li>
+<li><a href="http://data.eastmoney.com/cjsj/yzgptjnew.html" target="_blank">è¡ç¥¨è´¦æ·</a></li>
+<li><a href="http://data.eastmoney.com/cmjzd/" target="_blank">è¡ä¸äººæ°</a></li>
+<li><a href="http://data.eastmoney.com/report/qsch.html" target="_blank">å¸åæ¨ä¼</a></li>
+<li><a href="http://data.eastmoney.com/zlsj/jj.html" target="_blank">åºéæä»</a></li>
+<li><a href="http://data.eastmoney.com/zlsj/sb.html" target="_blank">ç¤¾ä¿æä»</a></li>
+</ul>
+</div>
+<div class="qphox layout mb10">
+<div class="fl w200">
+<div class="title1"><h3><a href="http://data.eastmoney.com/zjlx/" target="_blank">ä¸¤å¸èµéæµå¥æµåºå¾</a></h3></div>
+<div class="box-x1 mb10 lszjlr"><a href="http://data.eastmoney.com/zjlx/" target="_blank"><img border="0" id="agzjsclt" src="http://webquotepic.eastmoney.com/GetPic.aspx?id=899001_TB&amp;imageType=FFRS&amp;token=44c9d251add88e27b65ed86506f6e5da&amp;type=FFR"/></a></div>
+<div class="title1"><a class="more fr f12" href="http://quote.eastmoney.com/favor/default.html" target="_blank">æ´å¤</a><h3><a href="http://quote.eastmoney.com/favor/default.html" target="_blank">æçèªé</a></h3></div>
+<div class="box-x1 mb10">
+<table cellpadding="0" cellspacing="0" class="linehleft w100p text-indent10">
+<thead>
+<tr><td class="txtc">åç§°</td><td class="txtc">ææ°ä»·</td><td class="txtc">æ¶¨è·å¹</td></tr>
+</thead>
+<tbody id="favorlist">
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="3"><a class="fr mr10" href="http://quote.eastmoney.com/favor/default.html" target="_blank">è¿å¥æçèªéè¡&gt;&gt;</a></td>
+</tr>
+</tfoot>
+</table>
+</div>
+<div class="title1"><a class="more fr f12" href="http://quote.eastmoney.com/center/index.html#zyzs_0_1" target="_blank">æ´å¤</a><h3><a href="http://quote.eastmoney.com/center/index.html#zyzs_0_1" target="_blank">éè¦ææ°</a></h3></div>
+<div class="box-x1 mb10">
+<table cellpadding="0" cellspacing="0" class="linehleft w100p text-indent10">
+<thead>
+<tr><td class="txtc">åç§°</td><td class="txtc">ææ°ä»·</td><td class="txtc">æ¶¨è·å¹</td></tr>
+</thead>
+<tbody id="zyzslist">
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+</tbody>
+</table>
+</div>
+<div class="title1"><a class="more fr f12" href="http://quote.eastmoney.com/center/list.html#12.1.1_5_3" target="_blank">æ´å¤</a><h3><a href="http://quote.eastmoney.com/center/list.html#12.1.1_5_3" target="_blank">è¡ææè´§</a></h3></div>
+<div class="box-x1 mb10">
+<table cellpadding="0" cellspacing="0" class="linehleft w100p text-indent10">
+<thead>
+<tr><td class="txtc">åç§°</td><td class="txtc">ææ°ä»·</td><td class="txtc">æ¶¨è·å¹</td></tr>
+</thead>
+<tbody id="gzqhlist">
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+</tbody>
+</table>
+</div>
+<div class="title1 nonal ie rtab">
+<ul class="tab1" id="tab_hyzdfb">
+<li class="w84 cur" value="1"><h3><a href="http://quote.eastmoney.com/center/BKList.html#trade_0_0?sortRule=0" target="_blank">è¡ä¸æ¶¨å¹æ¦</a></h3></li>
+<li class="w84" value="2"><h3><a href="http://quote.eastmoney.com/center/BKList.html#trade_0_0?sortRule=1" target="_blank">è¡ä¸è·å¹æ¦</a></h3></li>
+</ul>
+</div>
+<div class="box-x1">
+<div id="cnt_hyzfb" style="display: block;" value="1">
+<table cellpadding="0" cellspacing="0" class="line25 w100p text-indent10 txtUL">
+<thead>
+<tr><td class="txtc">åç§°</td><td class="txtc">æ¶¨è·å¹</td><td class="txtc">é¢æ¶¨è¡</td></tr>
+</thead>
+<tbody id="cnt_hyzfb_list">
+<tr><td>-</td><td class="green">-</td><td>-</td></tr><tr><td>-</td><td class="green">-</td><td>-</td></tr><tr><td>-</td><td class="green">-</td><td>-</td></tr>
+<tr><td>-</td><td class="green">-</td><td>-</td></tr><tr><td>-</td><td class="green">-</td><td>-</td></tr>
+</tbody>
+</table>
+</div>
+<div id="cnt_hydfb" style="display: none;" value="2">
+<table cellpadding="0" cellspacing="0" class="line25 w100p text-indent10 txtUL">
+<thead>
+<tr><td class="txtc">åç§°</td><td class="txtc">æ¶¨è·å¹</td><td class="txtc">é¢è·è¡</td></tr>
+</thead>
+<tbody id="cnt_hydfb_list">
+<tr><td>-</td><td class="green">-</td><td>-</td></tr><tr><td>-</td><td class="green">-</td><td>-</td></tr><tr><td>-</td><td class="green">-</td><td>-</td></tr>
+<tr><td>-</td><td class="green">-</td><td>-</td></tr><tr><td>-</td><td class="green">-</td><td>-</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="title1 nonal ie rtab">
+<ul class="tab1" id="tab_gnzdfb">
+<li class="w84 cur" value="1"><h3><a href="http://quote.eastmoney.com/center/BKList.html#notion_0_0?sortRule=0" target="_blank">æ¦å¿µæ¶¨å¹æ¦</a></h3></li>
+<li class="w84" value="2"><h3><a href="http://quote.eastmoney.com/center/BKList.html#notion_0_0?sortRule=1" target="_blank">æ¦å¿µè·å¹æ¦</a></h3></li>
+</ul>
+</div>
+<div class="box-x1">
+<div id="cnt_gnzfb" style="display: block;" value="1">
+<table cellpadding="0" cellspacing="0" class="line25 w100p text-indent10 txtUL">
+<thead>
+<tr><td class="txtc">åç§°</td><td class="txtc">æ¶¨è·å¹</td><td class="txtc">é¢æ¶¨è¡</td></tr>
+</thead>
+<tbody id="cnt_gnzfb_list">
+<tr><td>-</td><td class="green">-</td><td>-</td></tr><tr><td>-</td><td class="green">-</td><td>-</td></tr><tr><td>-</td><td class="green">-</td><td>-</td></tr>
+<tr><td>-</td><td class="green">-</td><td>-</td></tr><tr><td>-</td><td class="green">-</td><td>-</td></tr>
+</tbody>
+</table>
+</div>
+<div id="cnt_gndfb" style="display: none;" value="2">
+<table cellpadding="0" cellspacing="0" class="line25 w100p text-indent10 txtUL">
+<thead>
+<tr><td class="txtc">åç§°</td><td class="txtc">æ¶¨è·å¹</td><td class="txtc">é¢è·è¡</td></tr>
+</thead>
+<tbody id="cnt_gndfb_list">
+<tr><td>-</td><td class="green">-</td><td>-</td></tr><tr><td>-</td><td class="green">-</td><td>-</td></tr><tr><td>-</td><td class="green">-</td><td>-</td></tr>
+<tr><td>-</td><td class="green">-</td><td>-</td></tr><tr><td>-</td><td class="green">-</td><td>-</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="fr w790">
+<div class="fr w202">
+<div class="title1 ttrtab">
+<ul class="tab1" id="tab_zjlfb">
+<li class="w83 cur" value="1"><h3><a href="http://data.eastmoney.com/zjlx/zs000001.html" target="_blank">æ²ªå¸èµéæµ</a></h3></li>
+<li class="w83" value="2"><h3>åç¬</h3></li>
+</ul>
+</div>
+<div id="cnt_zjl" value="1">
+<div class="box-x1 lifl bt oh">
+<ul><li>ä¸»åæµå¥</li><li class="txR"><span class="red" id="hz_a">-</span></li></ul>
+<ul style="clear:both;"><li>ä¸»åæµåº</li><li class="txR"><span class="green" id="hz_b">-</span></li></ul>
+<ul style="clear:both;"><li id="hz_c_t">ä¸»ååæµå¥</li><li class="txR"><span id="hz_c">-</span></li></ul>
+</div>
+<div class="box-x1 txtc lifl">
+<table cellpadding="0" cellspacing="0" class="line20 w100p">
+<thead>
+<tr><td class="txtl">(äº¿å)</td><td>æµå¥</td><td>æµåº</td></tr>
+</thead>
+<tbody>
+<tr><td class="txtl">è¶å¤§</td><td><span class="red" id="hz_d">-</span></td><td><span class="green" id="hz_e">-</span></td></tr>
+<tr><td class="txtl">å¤§å</td><td><span class="red" id="hz_f">-</span></td><td><span class="green" id="hz_g">-</span></td></tr>
+<tr><td class="txtl">ä¸­å</td><td><span class="red" id="hz_h">-</span></td><td><span class="green" id="hz_i">-</span></td></tr>
+<tr><td class="txtl">å°å</td><td><span class="red" id="hz_j">-</span></td><td><span class="green" id="hz_k">-</span></td></tr>
+</tbody>
+</table>
+</div>
+<div class="box-x1 lifl picNum">
+<ul>
+<div class="up" id="hz_0l"></div>
+<div class="down" id="hz_0r"></div>
+                            åè¶å¤§
+                        </ul>
+<ul>
+<div class="up" id="hz_1l"></div>
+<div class="down" id="hz_1r"></div>
+                            åå¤§å
+                        </ul>
+<ul>
+<div class="up" id="hz_2l"></div>
+<div class="down" id="hz_2r"></div>
+                            åä¸­å
+                        </ul>
+<ul>
+<div class="up" id="hz_3l">
+<div class="box"></div>
+</div>
+<div class="down" id="hz_3r">
+<div class="box"></div>
+<span class="green"></span>
+</div>
+                            åå°å
+                        </ul>
+</div>
+</div>
+<div id="cnt_fb" style="display: none;" value="2">
+<div class="box-x1" style="padding-bottom:2px;">
+<table cellpadding="0" cellspacing="0" class="w100p text-indent10 line22">
+<tbody id="fblist">
+<tr><td class="nm"><span class="a">-</span></td><td>-</td><td>-</td></tr><tr><td class="nm"><span class="a">-</span></td><td>-</td><td>-</td></tr>
+<tr><td class="nm"><span class="a">-</span></td><td>-</td><td>-</td></tr><tr><td class="nm"><span class="a">-</span></td><td>-</td><td>-</td></tr>
+<tr><td class="nm"><span class="a">-</span></td><td>-</td><td>-</td></tr><tr><td class="nm"><span class="a">-</span></td><td>-</td><td>-</td></tr>
+<tr><td class="nm"><span class="a">-</span></td><td>-</td><td>-</td></tr><tr><td class="nm"><span class="a">-</span></td><td>-</td><td>-</td></tr>
+<tr><td class="nm"><span class="a">-</span></td><td>-</td><td>-</td></tr><tr><td class="nm"><span class="a">-</span></td><td>-</td><td>-</td></tr>
+<tr><td class="nm"><span class="a">-</span></td><td>-</td><td>-</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="box-x1 line24">
+<table cellpadding="0" cellspacing="0" class="w100p text-indent5">
+<tbody>
+<tr>
+<td>ææ°ï¼<span id="rgt1">-</span></td>
+<td>å¼çï¼<span id="rgt2">-</span></td>
+</tr>
+<tr>
+<td>æé«ï¼<span id="rgt3">-</span></td>
+<td>æä½ï¼<span id="rgt4">-</span></td>
+</tr>
+<tr>
+<td>æ¶¨å¹ï¼<span id="rgt5">-</span></td>
+<td>æ¶¨è·ï¼<span id="rgt6">-</span></td>
+</tr>
+<tr>
+<td>æ»éï¼<span id="rgt7">-</span></td>
+<td>æ»é¢ï¼<span id="rgt8">-</span></td>
+</tr>
+<tr>
+<td>æ¢æï¼<span id="rgt9">-</span></td>
+<td>æµå¼ï¼<span id="rgt10">-</span></td>
+</tr>
+<tr>
+<td>åçï¼<span class="green" id="rgt11">-</span></td>
+<td>å¤çï¼<span class="red" id="rgt12">-</span></td>
+</tr>
+<tr>
+<td>æ¯å¹ï¼<span id="rgt13">-</span></td>
+<td>æ¶¨å®¶æ°ï¼<span id="rgt14">-</span></td>
+</tr>
+<tr>
+<td>è·å®¶æ°ï¼<span id="rgt15">-</span></td>
+<td>å¹³å®¶æ°ï¼<span id="rgt16">-</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="box-x1 line24 mb10">
+<table cellpadding="0" cellspacing="0" class="w100p text-indent10">
+<tbody>
+<tr><td colspan="2">é¶æ®µæ¶¨å¹</td></tr>
+<tr><td>5æ¥ï¼<span id="rgt17">-</span></td><td>20æ¥ï¼<span id="rgt18">-</span></td></tr>
+<tr><td>60æ¥ï¼<span id="rgt19">-</span></td><td>ä»å¹´ï¼<span id="rgt20">-</span></td></tr>
+</tbody>
+</table>
+</div>
+<div class="title1"><a class="more fr f12" href="http://quote.eastmoney.com/center/list.html#10" target="_blank">æ´å¤</a><h3><a href="http://quote.eastmoney.com/center/list.html#10" target="_blank">ä¸è¯Aè¡æ¶¨å¹æè¡</a></h3></div>
+<div class="box-x1 mb10">
+<table cellpadding="0" cellspacing="0" class="linehleft w100p text-indent10">
+<thead>
+<tr><td class="txtc">åç§°</td><td class="txtc">ææ°ä»·</td><td class="txtc">æ¶¨è·å¹</td></tr>
+</thead>
+<tbody id="pylist">
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+</tbody>
+</table>
+</div>
+<div>
+<!-- AdSame ShowCode: ä¸æ¹è´¢å¯ç½ / è¡æ / è¡æä¸å±å³æé® Begin -->
+<iframe frameborder="0" height="200" marginheight="0" marginwidth="0" scrolling="no" src="http://same.eastmoney.com/s?z=eastmoney&amp;c=175&amp;op=1" width="200"></iframe>
+<!-- AdSame ShowCode: ä¸æ¹è´¢å¯ç½ / è¡æ / è¡æä¸å±å³æé® End -->
+</div>
+</div>
+<div class="w578">
+<div class="gszb mb10">
+<div class="lox">
+<div class="tit"><a href="http://kuaixun.eastmoney.com/zhibo.html" target="_blank">å¨çç´æ­</a></div>
+<div class="cnt"><ul><li id="ScrollMIIRBox"></li></ul></div>
+</div>
+<div class="rox"><b></b><a href="http://www.eastmoney.com" target="_blank">æé«æ³17æ¡æè§æ¤èªç§åæ¿</a></div>
+</div>
+<ul class="topnav">
+<li class="a"><b></b><a href="http://guba.eastmoney.com/list,zssh000001.html" target="_blank">ä¸è¯ææ°å§</a></li>
+<li class="b"><b></b><a href="http://so.eastmoney.com/Search.htm?q=(000001)(%u4e0a%u8bc1%u6307%u6570)&amp;m=0&amp;t=2" target="_blank">ä¸è¯ææ°èµè®¯</a></li>
+<li class="c"><b></b><a class="red" href="http://acttg.eastmoney.com/pub/web_jcb_dcsy_hqzx_zs_01_03_0" target="_blank">å¤ç©ºæ¯å¤©æ¥</a></li>
+<li class="d" style="margin-left: 20px;"><a class="red" href="http://acttg.eastmoney.com/pub/web_nr_hqzx_fsts_01_01_01_0" target="_blank">é¡¶å°é«æå®æ¶è§£ç</a></li>
+<li class="g" id="RefPR"></li>
+</ul>
+<div id="image_box">
+<div class="ml10 height35 mt10">
+<div class="fl pryxzR" id="tab_picr">
+<span class="cur"><div></div>ä¸å¤©</span>
+<span class=""><div></div>äºå¤©</span>
+<span class=""><div></div>ä¸å¤©</span>
+<span class=""><div></div>åå¤©</span>
+<span class=""><div></div>äºå¤©</span>
+</div>
+<div class="tg241">
+</div>
+<a class="fullScreenBtn fr" href="#fullScreenChart"><b class="fullScreenGif"></b><span>å¨å±</span></a>
+<a class="fr header-title-b cur" href="javascript:;"><b></b>å¾çç</a>
+<a class="fr header-title-b" href="javascript:;" id="js_show"><b></b>å¨å¾ç</a>
+</div>
+<div class="picrbox">
+<a class="fullScreenBtn xbQoute r_xbQoute" href="#fullScreenChart" id="beta-text-link1" tracker-eventcode="xqzx_hsAgxqdy_hqt_djztlj">ç¹å»è¿å¥å¨å±æ¨¡å¼</a>
+<a class="fullScreenBtn" href="#fullScreenChart">
+<img alt="ä¸è¯ææ°" border="0" height="276" id="picr" src="http://webquotepic.eastmoney.com/GetPic.aspx?nid=1.000001&amp;imageType=r&amp;token=44c9d251add88e27b65ed86506f6e5da" width="578"/>
+</a>
+<a class="picrfixad" href="https://zqhd.eastmoney.com/Html/aghd/pc/20170918/html/activity1.html" target="_blank"><img alt="" border="0" src="http://g1.dfcfw.com/g2/201505/20150528172225.gif"/></a>
+</div>
+<div class="ml10 height35">
+<div class="fl pryxz mt10" id="tab_pick">
+<span class="cur" value=""><div></div>æ¥K</span>
+<span class="" value="W"><div></div>å¨K</span>
+<span class="" value="M"><div></div>æK</span>
+<span class="" value="M5"><div></div>5åé</span>
+<span class="" value="M15"><div></div>15åé</span>
+<span class="" value="M30"><div></div>30åé</span>
+<span class="" value="M60"><div></div>60åé</span>
+</div>
+<span class="fr mt10"><a class="fullScreenBtn" href="#fullScreenChart"><b class="fullScreenGif"></b><span>å¨å±</span></a></span>
+<span class="fr header-title-a mt10 h22 b2F5" id="picklc">ç¼©ç­Kçº¿</span>
+<span class="fr header-title-a mt10 h22 b2F5" id="picksd">æé¿Kçº¿</span>
+</div>
+<div class="flsk mt10 pickbox mb10">
+<div class="tox">
+<a class="fullScreenBtn xbQoute k_xbQoute" href="#fullScreenChart" id="beta-text-link1" tracker-eventcode="xqzx_hsAgxqdy_hqt_djztlj">ç¹å»è¿å¥å¨å±æ¨¡å¼</a>
+<a class="pkox fullScreenBtn" href="#fullScreenChart">
+<img alt="ä¸è¯ææ°(000001)" border="0" height="365" id="pick" src="//webquoteklinepic.eastmoney.com/GetPic.aspx?token=44c9d251add88e27b65ed86506f6e5da&amp;nid=1.000001&amp;type=&amp;unitWidth=-6&amp;ef=&amp;formula=RSI&amp;imageType=KXL" width="520"/>
+</a>
+<div class="rox">
+<ul id="zkeya">
+<li>ä¸»è¦ææ </li>
+<li class="at" value="EXTENDED_MA"><b></b>åçº¿</li>
+<li value="EXTENDED_BOLL"><b></b>BOLL</li>
+<li value="EXTENDED_SAR"><b></b>SAR</li>
+<li value="EXTENDED_BBI"><b></b>BBI</li>
+</ul>
+<ul class="bottom" id="zkeyb">
+<li class="at" value="RSI"><b></b>RSI</li>
+<li value="KDJ"><b></b>KDJ</li>
+<li value="MACD"><b></b>MACD</li>
+<li value="WR"><b></b>W%R</li>
+<li value="DMI"><b></b>DMI</li>
+<li value="BIAS"><b></b>BIAS</li>
+<li value="OBV"><b></b>OBV</li>
+<li value="CCI"><b></b>CCI</li>
+<li value="ROC"><b></b>ROC</li>
+<li value="CR"><b></b>CR</li>
+<li value="BOll"><b></b>BOLL</li>
+</ul>
+</div>
+</div>
+<ul class="bom" id="zkeyc">
+<li class="at" value="RSI"><b></b>RSI</li>
+<li value="KDJ"><b></b>KDJ</li>
+<li value="MACD"><b></b>MACD</li>
+<li value="WR"><b></b>W%R</li>
+<li value="DMI"><b></b>DMI</li>
+<li value="BIAS"><b></b>BIAS</li>
+<li value="OBV"><b></b>OBV</li>
+<li value="CCI"><b></b>CCI</li>
+<li value="ROC"><b></b>ROC</li>
+<li value="CR"><b></b>CR</li>
+<li value="BOll"><b></b>BOLL</li>
+</ul>
+</div>
+</div>
+<div id="js_box" style="display: none;">
+<div class="ml10 height35 mt10">
+<div class="fl pryxzR changeFenshiTab">
+<span class="cur" type="oneday">ä¸å¤©</span>
+<span type="twoday">äºå¤©</span>
+<span type="threeday">ä¸å¤©</span>
+<span type="fourday">åå¤©</span>
+<span type="fiveday">äºå¤©</span>
+</div>
+<div class="tg241">
+</div>
+<a class="fullScreenBtn fr" href="#fullScreenChart"><b class="fullScreenGif"></b><span>å¨å±</span></a>
+<a class="fr header-title-b img_show" href="javascript:;" id="image_show"><b></b>å¾çç</a>
+<a class="fr header-title-b cur" href="javascript:;"><b></b>å¨å¾ç</a>
+</div>
+<div class="picrbox emchart">
+<a class="xbQoute r_xbQoute" href="#fullScreenChart" target="_blank">ç¹å»è¿å¥å¨å±æ¨¡å¼</a>
+<div class="em-tab" id="emchart-0">
+</div>
+</div>
+<div class="ml10 height35">
+<div class="fl pryxz mt10" id="changektab">
+<span class="cur" value="D">æ¥K</span>
+<span class="" value="W">å¨K</span>
+<span class="" value="M">æK</span>
+<span class="" value="M5">5åé</span>
+<span class="" value="M15">15åé</span>
+<span class="" value="M30">30åé</span>
+<span class="" value="M60">60åé</span>
+</div>
+<div class="fr myselect w65 mt10" id="beforeBackRight" style="display:none">
+<i></i>
+<span>ä¸å¤æ</span>
+<dl>
+<dd value="">ä¸å¤æ</dd>
+<dd value="before">åå¤æ</dd>
+<dd value="back">åå¤æ</dd>
+</dl>
+</div>
+<span class="fr mt10"><a class="fullScreenBtn" href="#fullScreenChart"><b class="fullScreenGif"></b><span>å¨å±</span></a></span>
+<span class="fr header-title-a mt10 h22 b2F5" id="scale-plus">ç¼©ç­Kçº¿</span>
+<span class="fr header-title-a mt10 h22 b2F5" id="scale-minus">æé¿Kçº¿</span>
+</div>
+<div class="flsk mt10 mb10" id="emchart-k" style="margin-left: -5px;">
+<a class="xbQoute r_xbQoute" href="#fullScreenChart" target="_blank">ç¹å»è¿å¥å¨å±æ¨¡å¼</a>
+<div class="em-tab" id="emchartk">
+</div>
+</div>
+</div>
+<div class="bglabox mb10">
+<ul><li><a class="red" href="http://js1.eastmoney.com/tg.aspx?ID=961" target="_blank">ææ°åºééä»è¡</a></li><li><a href="http://js1.eastmoney.com/tg.aspx?ID=468" target="_blank">æ²ªæ·±ä¸¤å¸é¾èæ¦</a></li><li><a href="http://js1.eastmoney.com/tg.aspx?ID=383" target="_blank">é«ç®¡å¢åæè¡æç»</a></li><li><a href="https://acttg.eastmoney.com/pub/webtg_hskh_act_hqtxfwzl1_01_01_01_0" target="_blank">ä¸2.5æéå¼æ·</a></li><li><a class="red" href="https://acttg.eastmoney.com/pub/webtg_hskh_act_hqywzl2_01_01_01_0" target="_blank">ä¸»åå¼å¨æåç</a></li><li class="last"><a href="http://js1.eastmoney.com/tg.aspx?ID=967" target="_blank">ä¸ªè¡èµéæµå</a></li></ul>
+</div>
+<div class="title1">
+<div class="kx_utils">
+<span class="kx_more"><a href="http://kuaixun.eastmoney.com/zhibo.html" target="_blank">æ´å¤&gt;&gt;</a></span>
+<span class="kx_refresh" id="kx_refresh">å·æ°</span>
+<span class="kx_auto kx_autoing" id="kx_auto"><span class="kx_auto_sec" id="kx_auto_sec">60</span>ç§åå·æ°</span>
+<span class="kx_fontsize" id="kx_fontsize">å¤§å­+</span>
+</div>
+<h3><a href="http://kuaixun.eastmoney.com/zhibo.html" target="_blank">è¡å¸ç´æ­</a></h3>
+</div>
+<div class="kx_list" id="kx_list"><div class="tipstr" id="tipstr">ç´æ­ä¸­...</div><ul id="kx_lists"></ul></div>
+</div>
+</div>
+</div>
+<div class="qphox layout">
+<div class="fl w200">
+<div class="title1"><a class="more fr f12" href="http://data.eastmoney.com/bkzj/hy.html" target="_blank">æ´å¤</a><h3><a href="http://data.eastmoney.com/bkzj/hy.html" target="_blank">è¡ä¸èµéæµæè¡</a></h3></div>
+<div class="box-x1 mb10">
+<table cellpadding="0" cellspacing="0" class="linehleft w100p text-indent10">
+<thead>
+<tr><td class="txtc">åç§°</td><td class="txtc">åæµå¥</td><td class="txtc">æµå¥æå¤§è¡</td></tr>
+</thead>
+<tbody id="hyzjlpy">
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr><tr><td class="nm">-</td><td>-</td><td>-</td></tr><tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr><tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+</tbody>
+</table>
+</div>
+<div class="title1"><a class="more fr f12" href="http://data.eastmoney.com/bkzj/gn.html" target="_blank">æ´å¤</a><h3><a href="http://data.eastmoney.com/bkzj/gn.html" target="_blank">æ¦å¿µèµéæµæè¡</a></h3></div>
+<div class="box-x1 mb10">
+<table cellpadding="0" cellspacing="0" class="linehleft w100p text-indent10">
+<thead>
+<tr><td class="txtc">åç§°</td><td class="txtc">åæµå¥</td><td class="txtc">æµå¥æå¤§è¡</td></tr>
+</thead>
+<tbody id="gnzjlpy">
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr><tr><td class="nm">-</td><td>-</td><td>-</td></tr><tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+<tr><td class="nm">-</td><td>-</td><td>-</td></tr><tr><td class="nm">-</td><td>-</td><td>-</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="fr w790">
+<div class="fl w390 mb10">
+<div class="title1">
+<a class="more fr f12" href="http://finance.eastmoney.com/yaowen_czqyw.html" target="_blank">æ´å¤</a>
+<a class="titlea tunderlineno" href="http://finance.eastmoney.com/yaowen_czqyw.html" target="_blank"><h3>è¯å¸è¦é»</h3></a>
+</div>
+<div class="borderstyle2 pt1">
+<div class="nlist">
+<ul>
+<li><span>06-23 </span><a href="http://finance.eastmoney.com/news/1353,201906231158591931.html" target="_blank" title="è¿åå·²âæä»âï¼æ¸¯è¡ä¸­ç«æ200å¤ä¸ª è¡ä»·è¿1æ¯é±é½æ²¡æï¼">è¿åå·²âæä»âï¼æ¸¯è¡ä¸­ç«æ200å¤ä¸ª è¡ä»·è¿1æ¯...</a></li>
+<li><span>06-23 </span><a href="http://finance.eastmoney.com/news/1353,201906231158591897.html" target="_blank" title="åæå¸åè´¨æ¼åºäºï¼ä¸å¸å¬å¸å®æ§äººå ä¹100%è¡æè¢«è´¨æ¼ è¡ä»·è¿æ´è·">åæå¸åè´¨æ¼åºäºï¼ä¸å¸å¬å¸å®æ§äººå ä¹100%è¡...</a></li>
+<li><span>06-23 </span><a href="http://finance.eastmoney.com/news/1353,201906231158591778.html" target="_blank" title="å¤®è¡3000äº¿å¤§æ¶æ¯ï¼ä¸çº¿å¤§å¸åå¯éæé«ç­èä½é¢ä¸é å¸åè¡è¦âå¨äºâï¼">å¤®è¡3000äº¿å¤§æ¶æ¯ï¼ä¸çº¿å¤§å¸åå¯éæé«ç­èä½...</a></li>
+<li><span>06-23 </span><a href="http://finance.eastmoney.com/news/1353,201906231158585146.html" target="_blank" title="è¶20å®¶ä¸å¸å¬å¸é­å¿½æ å¼å¢æï¼äº¤ææï¼ä¸ºä»ä¹ï¼å¤§è¡ä¸ï¼æ²¡é±">è¶20å®¶ä¸å¸å¬å¸é­å¿½æ å¼å¢æï¼äº¤ææï¼ä¸ºä»ä¹...</a></li>
+<li><span>06-23 </span><a href="http://finance.eastmoney.com/news/1353,201906231158569058.html" target="_blank" title="åæ¶1000ä¸ææ500ä¸ å¸ååæå¸ç°å¨æ¯è¿ä¹åèªæ°´ç">åæ¶1000ä¸ææ500ä¸ å¸ååæå¸ç°å¨æ¯è¿ä¹å...</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="fr w390 mb10">
+<div class="title1">
+<a class="more fr f12" href="http://stock.eastmoney.com/news/cdpfx.html" id="tit_dpfx" style="display: block;" target="_blank">æ´å¤</a>
+<a class="more fr f12" href="http://blog.eastmoney.com/" id="tit_mb" style="display: none;" target="_blank">æ´å¤</a>
+<ul class="tab1" id="tab_fxmb">
+<li class="w79 cur" value="1"><h3><a href="http://stock.eastmoney.com/news/cdpfx.html" target="_blank">å¤§çåæ</a></h3></li>
+<li class="w79" value="2"><h3><a href="http://blog.eastmoney.com/" target="_blank">ååè®ºå¸</a></h3></li>
+</ul>
+</div>
+<div class="borderstyle2 pt1">
+<div class="nlist" id="cnt_dpfx" style="display: block;" value="1">
+<ul>
+<li><span>06-23 </span><a href="http://stock.eastmoney.com/news/1407,201906231158589753.html" target="_blank" title="ä¸å¨éè¦çªå£æ¥ä¸´ï¼å¸åæ¿è¾©ï¼ç¬¬äºè½®ä¸æ¶¨ä½æ¶å¼å¯ï¼">ä¸å¨éè¦çªå£æ¥ä¸´ï¼å¸åæ¿è¾©ï¼ç¬¬äºè½®ä¸æ¶¨ä½æ¶...</a></li>
+<li><span>06-23 </span><a href="http://stock.eastmoney.com/news/1407,201906231158554737.html" target="_blank" title="å´è¯ç­ç¥çå¾·ä¼¦ï¼åå¤çªå£å¦æèè³ ä¸¤å¤§æ¿åæ¯æ¬é¶æ®µåå¼¹ä¸»æ»æ¹å">å´è¯ç­ç¥çå¾·ä¼¦ï¼åå¤çªå£å¦æèè³ ä¸¤å¤§æ¿åæ¯...</a></li>
+<li><span>06-23 </span><a href="http://stock.eastmoney.com/news/1407,201906231158546236.html" target="_blank" title="è¿äºæ¶æ¯å½±åä¸å¨è¡å¸">è¿äºæ¶æ¯å½±åä¸å¨è¡å¸</a></li>
+<li><span>06-23 </span><a href="http://stock.eastmoney.com/news/1407,201906231158543848.html" target="_blank" title="æµ·éå®è§å§è¶ï¼ä¸ºä½ç»æµåé è¡å¸åèå¤§æ¶¨ï¼">æµ·éå®è§å§è¶ï¼ä¸ºä½ç»æµåé è¡å¸åèå¤§æ¶¨ï¼</a></li>
+<li><span>06-23 </span><a href="http://stock.eastmoney.com/news/1407,201906231158541083.html" target="_blank" title="å¯éå½åä¸ç­çº¿è¶è·åå¼¹è¡æ">å¯éå½åä¸ç­çº¿è¶è·åå¼¹è¡æ</a></li>
+</ul>
+</div>
+<div class="nlist" id="cnt_mb" style="display: none;" value="2">
+<ul><li><a href="http://blog.eastmoney.com/tongbei98/blog_842853984.html" target="_blank">ä¸¤å¤§æ¹åè¡æ°å¿é¡»çæ¸æ¥</a> <a href="http://blog.eastmoney.com/leeyv_1971/blog_842900900.html" target="_blank">ä¸äº¿çº§æ´èµ°ææ¯çæ­£éç»å·</a></li><li><a href="http://blog.eastmoney.com/yunma168/blog_842860007.html" target="_blank">å®½æ¾å è½®å¨ æç°æ»¡å çº¢</a> <a href="http://blog.eastmoney.com/zhongqin/blog_842856639.html" target="_blank">å½ä¸è¡æé¡»å°éä¸ä¸ªå®¢è§äºå®</a></li><li><a href="http://blog.eastmoney.com/samhadley/blog_842835413.html" target="_blank">ä¸å¨æä½ç­ç¥åæ¿åå»ºè®®</a> <a href="http://blog.eastmoney.com/m9769111694623668/blog_842719553.html" target="_blank">ä¸å¨å¸åºé¾å¤´å°å¨è¿éè¯ç</a></li><li><a href="http://blog.eastmoney.com/m7848094186146518/blog_842846023.html" target="_blank">å¯¹ä¸åå¹´è¡æçéæ°è®¤è¯</a> <a href="http://blog.eastmoney.com/smxy6/blog_842874067.html" target="_blank">æ¶¨åæ¿ææ³å¨è¡æä¸­çåºç¨</a></li><li><a href="http://blog.eastmoney.com/czwangzhigang/blog_842879386.html" target="_blank">æ¬è½®è¡æè½å¦çªç ´3288ç¹</a> <a href="http://blog.eastmoney.com/zyks9380/blog_842958514.html" target="_blank">å°±æ¯æ¡é±è¡æ ææ¡ä½æºä¼</a></li></ul>
+</div>
+</div>
+</div>
+<div class="fl w390 mb10">
+<div class="title1">
+<a class="more fr f12" href="http://finance.eastmoney.com/news/cssgs.html" target="_blank">æ´å¤</a>
+<a class="titlea tunderlineno" href="http://finance.eastmoney.com/news/cssgs.html" target="_blank"><h3>å¬å¸å¿«è®¯</h3></a>
+</div>
+<div class="borderstyle2 pt1">
+<div class="nlist">
+<ul>
+<li><span>06-23 </span><a href="http://finance.eastmoney.com/news/1349,201906231158592061.html" target="_blank" title="å®¶ä¹ç¦ä¸­å½è¡æåå¨å½±ååæåä½ï¼å½ç¾ï¼æ­£å¨ç§¯ææ²é">å®¶ä¹ç¦ä¸­å½è¡æåå¨å½±ååæåä½ï¼å½ç¾ï¼æ­£å¨...</a></li>
+<li><span>06-23 </span><a href="http://finance.eastmoney.com/news/1349,201906231158591654.html" target="_blank" title="èå®48äº¿æ¿ä¸å®¶ä¹ç¦ä¸­å½ ä¸é¿éè¾è®¯å±å¼é¶å®ä¸å½æ">èå®48äº¿æ¿ä¸å®¶ä¹ç¦ä¸­å½ ä¸é¿éè¾è®¯å±å¼é¶å®ä¸...</a></li>
+<li><span>06-23 </span><a href="http://finance.eastmoney.com/news/1349,201906231158591398.html" target="_blank" title="ä¸­å½äººå¯¿åå¹´é¾22äº¿å¥ä¸»ä¸è¾¾ä¿¡æ¯ ç«éæºæ§åå¸åå»çå¥åº·">ä¸­å½äººå¯¿åå¹´é¾22äº¿å¥ä¸»ä¸è¾¾ä¿¡æ¯ ç«éæºæ§åå¸...</a></li>
+<li><span>06-23 </span><a href="http://finance.eastmoney.com/news/1349,201906231158590063.html" target="_blank" title="ç­¾æç¥åä½ å¨åè¡ä»½æ4.82äº¿åè½¬è®©10%è¡ä»½ç»ç§å­¦åéå¢">ç­¾æç¥åä½ å¨åè¡ä»½æ4.82äº¿åè½¬è®©10%è¡ä»½ç»...</a></li>
+<li><span>06-23 </span><a href="http://finance.eastmoney.com/news/1349,201906231158589310.html" target="_blank" title="åç®­è¡ä»½ä¸åå¹´ä¸ç»©é¢å¢50%-80%">åç®­è¡ä»½ä¸åå¹´ä¸ç»©é¢å¢50%-80%</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="fr w390 mb10">
+<div class="title1">
+<a class="more fr f12" href="http://data.eastmoney.com/report/hyyb.html" target="_blank">æ´å¤</a>
+<a class="titlea tunderlineno" href="http://data.eastmoney.com/report/hyyb.html" target="_blank"><h3>ç ç©¶æ¥å</h3></a>
+</div>
+<div class="borderstyle2 pt1 nlist1 txtUL">
+<div class="fz14">
+<table cellpadding="0" cellspacing="0" class="linehleft w100p">
+<tbody>
+<tr>
+<td align="center">æºæ</td>
+<td align="center">è¯çº§</td>
+<td class="text-indent10">ç æ¥</td>
+</tr>
+<tr><td align="center"><a class="lightBlue" href="http://data.eastmoney.com/report/80000031_0.html" target="_blank" title="ä¸å´è¯å¸">ä¸å´è¯å¸</a></td><td align="center"><span title="-">-</span></td><td class="text-indent10"><span class="dt">06-23</span><a href="http://data.eastmoney.com/report/20190623/hy,APPJ6lfWG8PgIndustry.html" target="_blank" title="ç¯ä¿è¡ä¸ä¸­æç­ç¥ï¼å¯¹åä¸æ¨¡å¼çåæè">ç¯ä¿è¡ä¸ä¸­æç­ç¥ï¼å¯¹å...</a></td></tr><tr><td align="center"><a class="lightBlue" href="http://data.eastmoney.com/report/80000124_0.html" target="_blank" title="å¤©é£è¯å¸">å¤©é£è¯å¸</a></td><td align="center"><span title="å¢æ">å¢æ</span></td><td class="text-indent10"><span class="dt">06-23</span><a href="http://data.eastmoney.com/report/20190623/hy,APPJ6luVWigjIndustry.html" target="_blank" title="è¯å¸å¹¶è´­éç»ï¼æ°è§é¢ææ¾ç»‚ç»§ç»­æ¨èå¸åæ¿åï¼">è¯å¸å¹¶è´­éç»ï¼æ°è§é¢æ...</a></td></tr><tr><td align="center"><a class="lightBlue" href="http://data.eastmoney.com/report/80000202_0.html" target="_blank" title="ååè¯å¸">ååè¯å¸</a></td><td align="center"><span title="ææ">ææ</span></td><td class="text-indent10"><span class="dt">06-23</span><a href="http://data.eastmoney.com/report/20190623/hy,APPJ6luVWigkIndustry.html" target="_blank" title="å®¶å·è¡ä¸æ·±åº¦ç ç©¶æ¥åï¼å¥½èµé‚å¥½èµé©¬--è§£æé¡¾å®¶å®¶å±çåºå«ä¸å¡">å®¶å·è¡ä¸æ·±åº¦ç ç©¶æ¥åï¼...</a></td></tr><tr><td align="center"><a class="lightBlue" href="http://data.eastmoney.com/report/80000124_0.html" target="_blank" title="å¤©é£è¯å¸">å¤©é£è¯å¸</a></td><td align="center"><span title="å¢æ">å¢æ</span></td><td class="text-indent10"><span class="dt">06-23</span><a href="http://data.eastmoney.com/report/20190623/hy,APPJ6luVWiglIndustry.html" target="_blank" title="èæè¡ä¸æ·±åº¦ç ç©¶ï¼ä¾éééå­è²é»éèµé‚è¸æµªåå¹´é å°±è¡ä¸é¾å¤´">èæè¡ä¸æ·±åº¦ç ç©¶ï¼ä¾é...</a></td></tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="qphox title2 mb10 gubamodule2017" style="height: 37px">
+<span class="more4 fr mr10">
+<a href="http://guba.eastmoney.com/" target="_blank"><b></b>è¡å§é¦é¡µ</a>
+         | 
+        <a href="http://guba.eastmoney.com/remenba.aspx?type=1" target="_blank">ç­é¨ä¸ªè¡å§</a>
+         | 
+        <a href="http://guba.eastmoney.com/remenba.aspx?type=2" target="_blank">ç­é¨ä¸»é¢å§</a>
+         | 
+        <a href="http://guba.eastmoney.com/list,zssh000001.html" target="_blank">æ´å¤</a>
+</span>
+<h3 class="fd8"><a href="http://guba.eastmoney.com/list,zssh000001.html" target="_blank">ä¸è¯ææ°å§</a></h3>
+</div>
+<div class="qphox layout mb10 gubamodule2017">
+<div class="fr w200">
+<div class="title1">
+<div class="ttt"><h3>è°æ¥</h3></div>
+<ul class="tab1" id="tab_dkdc">
+<li class="cur" value="1"><h3>å¤ç©º</h3></li>
+<li value="2"><h3>æä»</h3></li>
+<li value="3"><h3>æºæ</h3></li>
+</ul>
+</div>
+<div class="box-x1 wydc">
+<div class="dcoxa" id="dcoxa" value="1">
+<form action="http://vote.eastmoney.com/" method="get" name="vote_a" target="_blank">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="ax"><img alt="" border="0" height="100" src="http://cmsjs.eastmoney.com/data/voteimg/duokong.png" style="margin-left:15px" width="100"/></td>
+<td class="bx"><label><input checked="checked" class="vote" id="vote_sz" name="radio2" type="radio" value="1"/>ä¸æ¶¨</label><label><input class="vote" id="vote_pz" name="radio2" type="radio" value="2"/>çæ´</label><label><input class="vote" id="vote_xd" name="radio2" type="radio" value="3"/>ä¸è·</label></td>
+</tr>
+<tr><td colspan="2"><cite class="mon"><b class="v-red"></b><span>ä¸æ¶¨</span><b></b><span>çæ´</span><b class="v-green"></b><span>ä¸è·</span></cite></td></tr>
+<tr><td class="cx" colspan="2"><span class="btnn"><button type="submit">æ  ç¥¨</button></span><span class="btnn"><button id="lookVote1" type="button">æ¥  ç</button></span></td></tr>
+</table>
+</form>
+</div>
+<div class="dcoxb" id="dcoxb" style="display: none;" value="2">
+<form action="http://vote.eastmoney.com/" method="get" name="vote_b" target="_blank">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="ax"><img alt="" border="0" height="100" src="http://cmsjs.eastmoney.com/data/voteimg/chicang.png" style="margin-left:15px" width="100"/></td>
+<td class="bx"><label><input checked="checked" class="vote" id="Radio1" name="radio" type="radio" value="1"/>â¥70%</label><label><input class="vote" id="Radio2" name="radio" type="radio" value="2"/>30%ï½70%</label><label><input class="vote" id="Radio3" name="radio" type="radio" value="3"/>â¤30%</label></td>
+</tr>
+<tr><td colspan="2"><cite class="mon b"><b class="v-red"></b><span>â¥70%</span><b></b><span>30%ï½70%</span><b class="v-green"></b><span>â¤30%</span></cite></td></tr>
+<tr><td class="cx" colspan="2"><span class="btnn"><button type="submit">æ  ç¥¨</button></span><span class="btnn"><button id="lookVote2" type="button">æ¥  ç</button></span></td></tr>
+</table>
+</form>
+</div>
+<div class="dcoxc" id="dcoxc" style="display: none;" value="3">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="v-red"><div><span style="height:100%;"></span></div></td>
+<td class="v-gray"><div><span style="height:86.3636363636364%;"></span></div></td>
+<td class="v-green"><div><span style="height:100%;"></span></div></td>
+</tr>
+<tr><td>22å®¶çå¤</td><td>19å®¶çå¹³</td><td>22å®¶çç©º</td></tr>
+</table>
+</div>
+</div>
+<div class="title1 mt10">
+<span class="refresh" id="refgbauls"></span>
+<h3>ä¸è¯ææ°å§äººæ°ç¨æ·</h3>
+</div>
+<div id="gbauls"><dl class="borderstyle2 pt1 color666 people"><dd><a href="http://iguba.eastmoney.com/7516013784509980" target="_blank"><img border="0" data-value="http://avator.eastmoney.com/qface/7516013784509980/50" src="http://avator.eastmoney.com/qface/7516013784509980/50"/></a><div class="userinf"><div class="userna"><a href="http://iguba.eastmoney.com/7516013784509980" target="_blank">ä¸åä¹ä½ä¼°</a></div><div class="userinfu">å½±åå <span class="stars stars45"></span></div><div class="userbal">å§é¾ <span>5.9å¹´</span></div><i onclick="hotpersonafp('7516013784509980',this,'000001')"></i></div></dd><dd><a href="http://iguba.eastmoney.com/3322094161423558" target="_blank"><img border="0" data-value="http://avator.eastmoney.com/qface/3322094161423558/50" src="http://avator.eastmoney.com/qface/3322094161423558/50"/></a><div class="userinf"><div class="userna"><a href="http://iguba.eastmoney.com/3322094161423558" target="_blank">æ·³å®è</a></div><div class="userinfu">å½±åå <span class="stars stars35"></span></div><div class="userbal">å§é¾ <span>4.7å¹´</span></div><i onclick="hotpersonafp('3322094161423558',this,'000001')"></i></div></dd><dd><a href="http://iguba.eastmoney.com/2998094154646794" target="_blank"><img border="0" data-value="http://avator.eastmoney.com/qface/2998094154646794/50" src="http://avator.eastmoney.com/qface/2998094154646794/50"/></a><div class="userinf"><div class="userna"><a href="http://iguba.eastmoney.com/2998094154646794" target="_blank">ç©å¼å¶æ</a></div><div class="userinfu">å½±åå <span class="stars stars35"></span></div><div class="userbal">å§é¾ <span>4.7å¹´</span></div><i onclick="hotpersonafp('2998094154646794',this,'000001')"></i></div></dd><dd><a href="http://iguba.eastmoney.com/5789112623844130" target="_blank"><img border="0" data-value="http://avator.eastmoney.com/qface/5789112623844130/50" src="http://avator.eastmoney.com/qface/5789112623844130/50"/></a><div class="userinf"><div class="userna"><a href="http://iguba.eastmoney.com/5789112623844130" target="_blank">waygo</a></div><div class="userinfu">å½±åå <span class="stars stars35"></span></div><div class="userbal">å§é¾ <span>9.6å¹´</span></div><i onclick="hotpersonafp('5789112623844130',this,'000001')"></i></div></dd></dl><dl class="borderstyle2 pt1 color666 people" style="display:none;"><dd><a href="http://iguba.eastmoney.com/8037113130765130" target="_blank"><img border="0" data-value="http://avator.eastmoney.com/qface/8037113130765130/50" src=""/></a><div class="userinf"><div class="userna"><a href="http://iguba.eastmoney.com/8037113130765130" target="_blank">è¿ç­¹å¸·å¹ä¹ä¸­å³è...</a></div><div class="userinfu">å½±åå <span class="stars stars35"></span></div><div class="userbal">å§é¾ <span>8å¹´</span></div><i onclick="hotpersonafp('8037113130765130',this,'000001')"></i></div></dd><dd><a href="http://iguba.eastmoney.com/4571093941687536" target="_blank"><img border="0" data-value="http://avator.eastmoney.com/qface/4571093941687536/50" src=""/></a><div class="userinf"><div class="userna"><a href="http://iguba.eastmoney.com/4571093941687536" target="_blank">äºç©·å­ç»ä¸è·³å´</a></div><div class="userinfu">å½±åå <span class="stars stars3"></span></div><div class="userbal">å§é¾ <span>5.4å¹´</span></div><i onclick="hotpersonafp('4571093941687536',this,'000001')"></i></div></dd><dd><a href="http://iguba.eastmoney.com/2979094248783780" target="_blank"><img border="0" data-value="http://avator.eastmoney.com/qface/2979094248783780/50" src=""/></a><div class="userinf"><div class="userna"><a href="http://iguba.eastmoney.com/2979094248783780" target="_blank">Aaa521</a></div><div class="userinfu">å½±åå <span class="stars stars3"></span></div><div class="userbal">å§é¾ <span>4.4å¹´</span></div><i onclick="hotpersonafp('2979094248783780',this,'000001')"></i></div></dd><dd><a href="http://iguba.eastmoney.com/2541094254454774" target="_blank"><img border="0" data-value="http://avator.eastmoney.com/qface/2541094254454774/50" src=""/></a><div class="userinf"><div class="userna"><a href="http://iguba.eastmoney.com/2541094254454774" target="_blank">æ­£éæ¹æ³</a></div><div class="userinfu">å½±åå <span class="stars stars3"></span></div><div class="userbal">å§é¾ <span>4.4å¹´</span></div><i onclick="hotpersonafp('2541094254454774',this,'000001')"></i></div></dd></dl><dl class="borderstyle2 pt1 color666 people" style="display:none;"><dd><a href="http://iguba.eastmoney.com/8289113948792576" target="_blank"><img border="0" data-value="http://avator.eastmoney.com/qface/8289113948792576/50" src=""/></a><div class="userinf"><div class="userna"><a href="http://iguba.eastmoney.com/8289113948792576" target="_blank">æ¢ä½æè8568</a></div><div class="userinfu">å½±åå <span class="stars stars3"></span></div><div class="userbal">å§é¾ <span>5.4å¹´</span></div><i onclick="hotpersonafp('8289113948792576',this,'000001')"></i></div></dd><dd><a href="http://iguba.eastmoney.com/7547093992627946" target="_blank"><img border="0" data-value="http://avator.eastmoney.com/qface/7547093992627946/50" src=""/></a><div class="userinf"><div class="userna"><a href="http://iguba.eastmoney.com/7547093992627946" target="_blank">ç¤ç­è¡è¦æ¶¨999</a></div><div class="userinfu">å½±åå <span class="stars stars3"></span></div><div class="userbal">å§é¾ <span>5.2å¹´</span></div><i onclick="hotpersonafp('7547093992627946',this,'000001')"></i></div></dd><dd><a href="http://iguba.eastmoney.com/6481094261383774" target="_blank"><img border="0" data-value="http://avator.eastmoney.com/qface/6481094261383774/50" src=""/></a><div class="userinf"><div class="userna"><a href="http://iguba.eastmoney.com/6481094261383774" target="_blank">å®æ ªå¾å600380</a></div><div class="userinfu">å½±åå <span class="stars stars25"></span></div><div class="userbal">å§é¾ <span>4.3å¹´</span></div><i onclick="hotpersonafp('6481094261383774',this,'000001')"></i></div></dd><dd><a href="http://iguba.eastmoney.com/1269094348187474" target="_blank"><img border="0" data-value="http://avator.eastmoney.com/qface/1269094348187474/50" src=""/></a><div class="userinf"><div class="userna"><a href="http://iguba.eastmoney.com/1269094348187474" target="_blank">éäºæº</a></div><div class="userinfu">å½±åå <span class="stars stars25"></span></div><div class="userbal">å§é¾ <span>4.1å¹´</span></div><i onclick="hotpersonafp('1269094348187474',this,'000001')"></i></div></dd></dl><dl class="borderstyle2 pt1 color666 people" style="display:none;"><dd><a href="http://iguba.eastmoney.com/8782094355965310" target="_blank"><img border="0" data-value="http://avator.eastmoney.com/qface/8782094355965310/50" src=""/></a><div class="userinf"><div class="userna"><a href="http://iguba.eastmoney.com/8782094355965310" target="_blank">è¡æ°é¼å¬</a></div><div class="userinfu">å½±åå <span class="stars stars25"></span></div><div class="userbal">å§é¾ <span>4å¹´</span></div><i onclick="hotpersonafp('8782094355965310',this,'000001')"></i></div></dd><dd><a href="http://iguba.eastmoney.com/6380094296161578" target="_blank"><img border="0" data-value="http://avator.eastmoney.com/qface/6380094296161578/50" src=""/></a><div class="userinf"><div class="userna"><a href="http://iguba.eastmoney.com/6380094296161578" target="_blank">é­ç1å·</a></div><div class="userinfu">å½±åå <span class="stars stars2"></span></div><div class="userbal">å§é¾ <span>4.2å¹´</span></div><i onclick="hotpersonafp('6380094296161578',this,'000001')"></i></div></dd><dd><a href="http://iguba.eastmoney.com/1400014530462968" target="_blank"><img border="0" data-value="http://avator.eastmoney.com/qface/1400014530462968/50" src=""/></a><div class="userinf"><div class="userna"><a href="http://iguba.eastmoney.com/1400014530462968" target="_blank">æ°´å¤©ä¸è²stys3563</a></div><div class="userinfu">å½±åå <span class="stars stars2"></span></div><div class="userbal">å§é¾ <span>3.5å¹´</span></div><i onclick="hotpersonafp('1400014530462968',this,'000001')"></i></div></dd><dd><a href="http://iguba.eastmoney.com/4470094325239696" target="_blank"><img border="0" data-value="http://avator.eastmoney.com/qface/4470094325239696/50" src=""/></a><div class="userinf"><div class="userna"><a href="http://iguba.eastmoney.com/4470094325239696" target="_blank">è¡å¸æ°æ°æ°é¸2725</a></div><div class="userinfu">å½±åå <span class="stars stars1"></span></div><div class="userbal">å§é¾ <span>4.1å¹´</span></div><i onclick="hotpersonafp('4470094325239696',this,'000001')"></i></div></dd></dl><dl class="borderstyle2 pt1 color666 people" style="display:none;"><dd><a href="http://iguba.eastmoney.com/2188094124038862" target="_blank"><img border="0" data-value="http://avator.eastmoney.com/qface/2188094124038862/50" src=""/></a><div class="userinf"><div class="userna"><a href="http://iguba.eastmoney.com/2188094124038862" target="_blank">n141240360935234</a></div><div class="userinfu">å½±åå <span class="stars stars1"></span></div><div class="userbal">å§é¾ <span>4.8å¹´</span></div><i onclick="hotpersonafp('2188094124038862',this,'000001')"></i></div></dd><dd><a href="http://iguba.eastmoney.com/2837094415512882" target="_blank"><img border="0" data-value="http://avator.eastmoney.com/qface/2837094415512882/50" src=""/></a><div class="userinf"><div class="userna"><a href="http://iguba.eastmoney.com/2837094415512882" target="_blank">éçä½ çç¼</a></div><div class="userinfu">å½±åå <span class="stars stars05"></span></div><div class="userbal">å§é¾ <span>3.9å¹´</span></div><i onclick="hotpersonafp('2837094415512882',this,'000001')"></i></div></dd><dd><a href="http://iguba.eastmoney.com/1769094207001016" target="_blank"><img border="0" data-value="http://avator.eastmoney.com/qface/1769094207001016/50" src=""/></a><div class="userinf"><div class="userna"><a href="http://iguba.eastmoney.com/1769094207001016" target="_blank">éè¡å­¦é¢</a></div><div class="userinfu">å½±åå <span class="stars stars0"></span></div><div class="userbal">å§é¾ <span>4.5å¹´</span></div><i onclick="hotpersonafp('1769094207001016',this,'000001')"></i></div></dd><dd><a href="http://iguba.eastmoney.com/1774024861314764" target="_blank"><img border="0" data-value="http://avator.eastmoney.com/qface/1774024861314764/50" src=""/></a><div class="userinf"><div class="userna"><a href="http://iguba.eastmoney.com/1774024861314764" target="_blank">è¡åvJYMk1</a></div><div class="userinfu">å½±åå <span class="stars stars0"></span></div><div class="userbal">å§é¾ <span>2.4å¹´</span></div><i onclick="hotpersonafp('1774024861314764',this,'000001')"></i></div></dd></dl></div>
+<iframe frameborder="0" height="200" marginheight="0" marginwidth="0" scrolling="no" src="http://same.eastmoney.com/s?z=eastmoney&amp;c=1422&amp;op=1" width="200"></iframe>
+<div style="margin-top: 10px;"></div>
+<iframe frameborder="0" height="250" marginheight="0" marginwidth="0" scrolling="no" src="http://same.eastmoney.com/s?z=eastmoney&amp;c=1423&amp;op=1" width="200"></iframe>
+</div>
+<div class="fl w790">
+<iframe frameborder="0" height="631" scrolling="no" src="http://gbfek.dfcfw.com/gubawebapi/article_list/article_list.html?code=zssh000001&amp;ba_show=false&amp;count=18&amp;stock_type=false" width="100%"></iframe>
+<iframe frameborder="0" height="190" marginheight="0" marginwidth="0" scrolling="no" src="http://gubawebapi.eastmoney.com/page/fund_editor/dest/editor.html?s=zssh000001&amp;width=788&amp;logincb=http://quote.eastmoney.com/zs000001.html" width="790"></iframe>
+<!-- AdSame ShowCode: ä¸æ¹è´¢å¯ç½ / è¡æ / æ°è¡æéæ äº Begin -->
+<iframe frameborder="0" height="90" marginheight="0" marginwidth="0" scrolling="no" src="http://same.eastmoney.com/s?z=eastmoney&amp;c=638&amp;op=1" width="790"></iframe>
+<!-- AdSame ShowCode: ä¸æ¹è´¢å¯ç½ / è¡æ / æ°è¡æéæ äº End -->
+</div>
+</div>
+<div class="qphox layout mb10">
+<div class="iafur">
+<div class="lox">
+<div class="title1"><span class="fr normal"></span><h3>å¸åºæ»è²</h3></div>
+<div class="cnt">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<th>ç±»å«</th>
+<th>æäº¤é(ä¸è¡)</th>
+<th>æäº¤éé¢(äº¿å)</th>
+<th>æ»å¸å¼(äº¿å)</th>
+<th>æµéå¸å¼(äº¿å)</th>
+<th>ä¸å¸å¬å¸(å®¶)</th>
+<th>å¹³åå¸çç</th>
+</tr>
+<tr><td>æ²ªå¸</td><td>28697.38</td><td>2766.62</td><td>391269.49</td><td>285920.97</td><td>1528</td><td>44.27</td></tr><tr><td>æ·±å¸</td><td>35198.91</td><td>3451.51</td><td>217668.84</td><td>159469.12</td><td>2218</td><td>90.83</td></tr><tr><td>ä¸­å°æ¿</td><td>14691.53</td><td>1354.50</td><td>88141.80</td><td>64894.51</td><td>939</td><td>104.59</td></tr><tr><td>åä¸æ¿</td><td>10389.47</td><td>1194.45</td><td>52462.88</td><td>32943.63</td><td>769</td><td>156.73</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="rox">
+<div class="title1"><a class="more fr f12" href="http://quote.eastmoney.com/center/BKList.html#trade_0_0?sortRule=0" target="_blank">æ´å¤</a><h3><a href="http://quote.eastmoney.com/center/BKList.html#trade_0_0?sortRule=0" target="_blank">é¢æ¶¨æ¿å</a></h3></div>
+<div class="cnt" id="lzbkinfo"></div>
+</div>
+</div>
+</div>
+<div class="qphox layout mb10">
+<div class="iarzrq">
+<div class="title1"><div class="rzrqinput"><b id="zjlx_bars"></b><input id="zjlx_bar" name="zjlx_bar" type="text"/></div><h3><a href="http://data.eastmoney.com/rzrq/sh.html" target="_blank">2019å¹´06æ21æ¥èèµèå¸äº¤ææ»é</a></h3></div>
+<div class="cnt">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr><th>äº¤ææ¥æ</th><th>å¸åºç±»å«</th><th>æ¬æ¥èèµä½é¢(å)</th><th>æ¬æ¥èèµä¹°å¥é¢(å)</th><th>æ¬æ¥èå¸ä½é(å)</th><th>æ¬æ¥èèµèå¸ä½é¢(å)</th></tr>
+<tr><td rowspan="3">2019-06-21</td><td>ä¸æµ·</td><td>5448.09äº¿</td><td>284.70äº¿</td><td>71.94äº¿</td><td>5520.03äº¿</td></tr><tr><td>æ·±å³</td><td></td><td></td><td></td><td></td></tr><tr><td>ä¸¤å¸åè®¡</td><td></td><td></td><td></td><td></td></tr>
+<tr><td align="right" class="more" colspan="6"><a href="http://data.eastmoney.com/rzrq/sh.html" target="_blank">ç¹å»æ¥çåå²æ°æ®&gt;&gt;</a></td></tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="qphox layout">
+<div class="iafiv">
+<div class="title1"><a class="more fr f12" href="http://data.eastmoney.com/bkzj/hy.html" target="_blank">æ´å¤</a><h3><a href="http://data.eastmoney.com/bkzj/hy.html" target="_blank">è¡ä¸èµéæµå</a></h3></div>
+<div class="cnt" id="hqzschart">
+<div class="chart"></div>
+</div>
+</div>
+</div>
+<div class="qphox layout" style="color:#666;margin:10px auto">
+    ééå£°æï¼æ¬ç½ç«æåè½½çææèµæåå¾è¡¨ä»ä¾åèä½¿ç¨ãæèµèä¾æ®æ¬ç½ç«æä¾çä¿¡æ¯ãèµæåå¾è¡¨è¿è¡éèãè¯å¸ç­æèµæé æççäºä¸æ¬ç½ç«æ å³ãæ¬ç½ç«å¦å ç³»ç»ç»´æ¤æåçº§èéæåæå¡ï¼æå çº¿è·¯åè¶åºæ¬å¬å¸æ§å¶èå´çç¡¬ä»¶æéæå¶å®ä¸å¯æåèå¯¼è´æåæå¡ï¼äºæåæå¡æé´é æçä¸åä¸ä¾¿ä¸æå¤±ï¼æ¬ç½ç«ä¸è´ä»»ä½è´£ä»»ã
+</div>
+<div><!-- footer-2016 -->
+<style>
+    .footer2016 ul {list-style: none;margin: 0;padding: 0;}
+    .footer2016 a:hover{color:#ff4901 !important;text-decoration: underline !important;}
+    .footer2016 .icon, .footer2016 .navlist li a {display: inline-block;}
+    .footer2016 .icon {background-image: url(https://g1.dfcfw.com/g3/201802/20180206095814.png);background-repeat: no-repeat;}
+    .footer2016 {margin: 0 auto;clear: both;width: 1000px;line-height: 1.1;_line-height: 1.2;font-family: simsun;font-size: 12px;border-top: 2px solid #2F5895;}
+    .footer2016 .footertg {background-color: #F3F3F3;float: left;width: 100%;padding: 12px 0 0;height: 140px;}
+    .footer2016 .footertg a:link, .footer2016 .footertg a:visited {color: #676767;text-decoration: none;}
+    .footer2016 .qr {float: left;width: 80px;height: 140px;line-height: 150%;padding: 0 10px 0 8px;}
+    .footer2016 .qr .t {font-weight: 700;font-size: 14px;padding-bottom: 10px;}
+    .footer2016 .icon_qrem80, .footer2016 .icon_qrjj80 {background-image: url(https://g1.dfcfw.com/g2/201607/20160728133707.png);width: 80px;height: 80px;}
+    .footer2016 .icon_qrem80 {background-position: 0 -330px;}
+    .footer2016 .icon_emwxqr, .footer2016 .icon_jjwxqr {background-image: url(https://g1.dfcfw.com/g2/201607/20160728133707.png);width: 86px;height: 106px;}
+    .footer2016 .icon_emwxqr {background-position: -90px 0;}
+    .footer2016 .ftglist ul li.qrli {position: relative;}
+    .footer2016 .ftglist ul li.qrli:hover .icon_qr, .footer2016 .scl-news .name a {display: block;}
+    .footer2016 .icon_emwxqr, .footer2016 .icon_jjwxqr {display: none;position: absolute;left: 0;top: 24px;}
+    .footer2016 .ftglist {float: left;height: 140px;padding: 0px 10px;}
+    .footer2016 .ftglistt {font-size: 14px;font-weight: 700;line-height: 130%;padding-bottom: 6px;text-align: left;}
+    .footer2016 .ftglist ul li {padding: 5px 0;color: #676767;text-align: left;}
+    .footer2016 .icon_wb {background-position: -24px 0;width: 14px;height: 12px;}
+    .footer2016 .icon_wx {background-position: 0 0;width: 14px;height: 11px;}
+    .footer2016 .icon_note {background-position: -47px 0;width: 13px;height: 11px;}
+    .footer2016 .ftglist .icon {vertical-align: -1px;margin-right: 2px;}
+    .footer2016 .footertg a:link, .footer2016 .footertg a:visited {color: #676767;text-decoration: none;}
+    .footer2016 .qrl {border-left: 1px solid #ddd;margin-left: 10px;padding-left: 20px;}
+    .footer2016 .icon_qrjj80 {background-position: -90px -330px;}
+    .footer2016 .footercr {clear: both;text-align: center;line-height: 26px;font-size: 12px;width:1000px;margin: 0 auto;height:26px;overflow:hidden;}
+    .footer2016 .icon_icp {background-position: -24px -21px;width: 15px;height: 17px;}
+    .footer2016 .footercr .icon {vertical-align: -3px;margin-right: 2px;}
+    .footer2016 .icon_pol {background-position: 0 -22px;width: 18px;height: 20px;}
+    .footer2016 .footerlinks {background-color: #2F5895;height: 30px;text-align: center;line-height: 30px;}
+    .footer2016 .footerlinks a:link, .footer2016 .footerlinks a:visited, .footer2016 .footerlinks a:hover {color: #fff !important;text-decoration: none;margin: 0 14px;}
+    .footer2016 .footerbz {text-align: center;padding: 12px 0;}
+    .footer2016 .footerbz a {margin: 0 4px;}
+    .footer2016 .footer-police {background-position: 0 -112px;width: 110px;height: 40px;}
+    .footer2016 .footer-zx110 {background-position: -120px -113px;width: 110px;height: 40px;}
+    .footer2016 .footer-shjubao {background-position: 0 -172px;width: 110px;height: 40px;}
+    .footer2016 .footer-cxzx {background-position: -120px -174px;width: 40px;height: 40px;}
+    .footer2016 .footer-shgs {background-position: -180px -174px;width: 47px;height: 40px;}
+    .footer2016 .footer-12377 {background-position: 0 -54px;width: 186px;height: 40px;}
+    .footer2016 .footer-yhjb {background-position: 0 -229px;width: 123px;height: 40px;}
+    .footer2016 .footer-qrlast {width: 90px;}
+    .footer2016 .footer-icon-qihuoqr { background: url(https://emcharts.dfcfw.com/images/qihuoqr.png);width: 80px;height: 80px;display: inline-block;background-repeat: no-repeat;vertical-align: -5px;}
+</style>
+<div class="footer2016">
+<div class="footertg">
+<div class="qr">
+<div class="t"><a href="http://acttg.eastmoney.com/pub/web_dfcfsy_dbtg_wzl_01_01_01_1" style="color:#000" target="_blank">ä¸æ¹è´¢å¯</a></div>
+<a href="http://acttg.eastmoney.com/pub/web_app_dcsy_2wm_01_01_01_0" target="_blank"><em class="icon icon_qrem80"></em></a><br/>æ«ä¸æ«ä¸è½½APP
+        </div>
+<div class="ftglist">
+<div class="ftglistt">ä¸æ¹è´¢å¯äº§å</div>
+<ul>
+<li><a href="https://acttg.eastmoney.com/pub/pctg_hskh_act_dfcfwmfb_01_01_01_0" target="_blank">ä¸æ¹è´¢å¯åè´¹ç</a></li>
+<li><a href="https://acttg.eastmoney.com/pub/pctg_hskh_act_dfcfwl2_01_01_01_0" target="_blank">ä¸æ¹è´¢å¯Level-2</a></li>
+<li><a href="http://js5.eastmoney.com/tg.aspx?ID=1483" target="_blank">æèµå¤§å¸</a></li>
+<li><a href="http://js5.eastmoney.com/tg.aspx?ID=2749" target="_blank">Choiceéèç»ç«¯</a></li>
+<li style="display: none;"><a href="http://www.langke.com/" target="_blank">æµªå®¢ - è´¢ç»è§é¢</a></li>
+</ul>
+</div>
+<div class="ftglist">
+<div class="ftglistt">è¯å¸äº¤æ</div>
+<ul>
+<li><a href="http://gpkh.eastmoney.com/310100" target="_blank">ä¸æ¹è´¢å¯è¯å¸å¼æ·</a></li>
+<li><a href="https://jy.xzsec.com/Trade/Buy" target="_blank">ä¸æ¹è´¢å¯å¨çº¿äº¤æ</a></li>
+<li><a href="https://acttg.eastmoney.com/pub/pctg_hskh_act_dfcfzqjy_01_01_01_0" target="_blank">ä¸æ¹è´¢å¯è¯å¸äº¤æ</a></li>
+<li><a href="http://www.emsec.hk/3m-Account.html" target="_blank">æ¸¯ç¾è¡å¼æ·</a></li>
+<li><a href="https://jy.xzsec.com/?mode=hk" target="_blank">æ¸¯ç¾è¡äº¤æ </a></li>
+</ul>
+</div>
+<div class="ftglist">
+<div class="ftglistt">å³æ³¨ä¸æ¹è´¢å¯</div>
+<ul>
+<li><a href="http://weibo.com/dfcfw" target="_blank"><em class="icon icon_wb"></em>ä¸æ¹è´¢å¯ç½å¾®å</a></li>
+<li class="qrli"><a href="javascript:;" target="_self"><em class="icon icon_wx"></em>ä¸æ¹è´¢å¯ç½å¾®ä¿¡</a><em class="icon icon_qr icon_emwxqr"></em></li>
+<li><a href="http://corp.eastmoney.com/Lianxi_liuyan.asp" target="_blank"><em class="icon icon_note"></em>æè§ä¸å»ºè®®</a></li>
+</ul>
+</div>
+<div class="qr qrl">
+<div class="t"><a href="http://acttg.eastmoney.com/pub/web_ttjjsy_dbtg_wzl_01_01_01_1" style="color:#000" target="_blank">å¤©å¤©åºé</a></div>
+<a href="http://js1.eastmoney.com/tg.aspx?ID=4672" target="_blank"><em class="icon icon_qrjj80"></em></a><br/>æ«ä¸æ«ä¸è½½APP
+        </div>
+<div class="ftglist">
+<div class="ftglistt">åºéäº¤æ</div>
+<ul>
+<li><a href="https://trade6.1234567.com.cn/reg/step1" target="_blank">åºéå¼æ·</a></li>
+<li><a href="https://trade.1234567.com.cn/login" target="_blank">åºéäº¤æ</a></li>
+<li><a href="http://huoqibao.1234567.com.cn/" target="_blank">æ´»æå®</a></li>
+<li><a href="http://fund.eastmoney.com/trade/default.html" target="_blank">åºéäº§å</a></li>
+<li><a href="http://fund.eastmoney.com/gslc/" target="_blank">ç¨³å¥çè´¢</a></li>
+</ul>
+</div>
+<div class="ftglist">
+<div class="ftglistt">å³æ³¨å¤©å¤©åºé</div>
+<ul>
+<li><a href="http://weibo.com/ttfund" target="_blank"><em class="icon icon_wb"></em>å¤©å¤©åºéç½å¾®å</a></li>
+<li class="qrli"><a href="javascript:;" target="_self"><em class="icon icon_wx"></em>å¤©å¤©åºéç½å¾®ä¿¡<em class="icon icon_qr icon_jjwxqr"></em></a></li>
+</ul>
+</div>
+<div class="qr qrl footer-qrlast">
+<div class="t"><a href="http://acttg.eastmoney.com/pub/web_dfcfqhsy_dbtg_wzl_01_01_01_1" style="color:#000" target="_blank">ä¸æ¹è´¢å¯æè´§</a></div>
+<a href="http://acttg.eastmoney.com/pub/web_kh_dcsy_dibudfcfqh_01_01_01_1" target="_blank"><em class="footer-icon-qihuoqr"></em></a><br/>æ«ä¸æ«ä¸è½½APP
+        </div>
+<div class="ftglist">
+<div class="ftglistt">æè´§äº¤æ</div>
+<ul>
+<li><a href="http://acttg.eastmoney.com/pub/web_kh_dcsy_dibuqhsjkh_01_01_01_1" target="_blank">æè´§ææºå¼æ·</a></li>
+<li><a href="https://acttg.eastmoney.com/pub/web_kh_dcsy_dibudnkh_01_01_01_1" target="_blank">æè´§çµèå¼æ·</a></li>
+<li><a href="http://acttg.eastmoney.com/pub/web_kh_dcsy_dibuqhgfwz_01_01_01_1" target="_blank">æè´§å®æ¹ç½ç«</a></li>
+</ul>
+</div>
+</div>
+<div class="footercr" style="padding-top:8px;">ä¿¡æ¯ç½ç»ä¼ æ­è§å¬èç®è®¸å¯è¯ï¼0908328å· ç»è¥è¯å¸æè´§ä¸å¡è®¸å¯è¯ç¼å·ï¼913101046312860336 è¿æ³åä¸è¯ä¿¡æ¯ä¸¾æ¥:021-34289898 ä¸¾æ¥é®ç®±ï¼<a href="mailto:jubao@eastmoney.com" target="_self">jubao@eastmoney.com</a></div>
+<div class="footercr" style="padding-bottom:8px;">
+<em class="icon icon_icp"></em>æ²ªICPè¯:æ²ªB2-20070217 <a href="http://shcainfo.miitbeian.gov.cn" rel="nofollow" style="color: #3F3F3F;text-decoration:none;" target="_blank">ç½ç«å¤æ¡å·:æ²ªICPå¤05006054å·-11 </a> <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010402000120" rel="nofollow" style="color: #3F3F3F;text-decoration:none;" target="_blank"><em class="icon icon_pol"></em>æ²ªå¬ç½å®å¤ 31010402000120å·</a> çæææ:ä¸æ¹è´¢å¯ç½ æè§ä¸å»ºè®®:021-54509966/021-24099099
+        </div>
+<div class="footerlinks">
+<a href="http://about.eastmoney.com" rel="nofollow" target="_blank">å³äºæä»¬</a>
+<a href="http://emhd2.eastmoney.com/market" rel="nofollow" target="_blank">å¹¿åæå¡</a>
+<a href="http://about.eastmoney.com/home/contact" rel="nofollow" target="_blank">èç³»æä»¬</a>
+<a href="http://eastmoney.zhiye.com" rel="nofollow" target="_blank">è¯èè±æ</a>
+<a href="http://about.eastmoney.com/home/disclaimer" rel="nofollow" target="_blank">åè´£å£°æ</a>
+<a href="http://about.eastmoney.com/home/legal" rel="nofollow" target="_blank">æ³å¾å£°æ</a>
+<a href="http://about.eastmoney.com/home/conceal" rel="nofollow" target="_blank">éç§ä¿æ¤</a>
+<a href="http://about.eastmoney.com/home/parper" rel="nofollow" target="_blank">å¾ç¨¿å¯äº</a>
+<a href="http://www.eastmoney.com/sitemap.html" target="_blank">ç½ç«å°å¾</a>
+<a href="http://www.zx110.org/cxs/index.html" rel="nofollow" target="_blank">æ¾å¿æ</a>
+<a href="http://about.eastmoney.com/home/links" rel="nofollow" target="_blank">åæé¾æ¥</a>
+</div>
+<div class="footerbz">
+<img src="https://g1.dfcfw.com/g3/201905/20190531140719.png" style="vertical-align: bottom;" title="äº²ç±çå¸æ°æåï¼ä¸æµ·è­¦æ¹åè¯åé»çµ
+è¯â962110âç³»ä¸é¨éå¯¹é¿åæ¨è´¢äº§è¢«
+éªåæèè®¾ï¼è¯·æ¨ä¸æ¦æ¶å°æ¥çµï¼ç«å³
+æ¥å¬ã"/>
+<a class="icon footer-police" href="http://www.cyberpolice.cn/" rel="nofollow" target="_blank" title="ä¸æµ·ç½è­¦ç½ç»110"></a>
+<a class="icon footer-zx110" href="http://www.zx110.org/" rel="nofollow" target="_blank" title="ç½ç»ç¤¾ä¼å¾ä¿¡ç½"></a>
+<a class="icon footer-shjubao" href="http://www.shjbzx.cn/" rel="nofollow" target="_blank" title="ä¸æµ·è¿æ³åè¿è§ä¿¡æ¯ä¸¾æ¥ä¸­å¿"></a>
+<a class="icon footer-cxzx" href="http://www.51315.cn/company_details_1138" rel="nofollow" target="_blank" title="è¯ä¿¡å¨çº¿"></a>
+<a class="icon footer-shgs" href="https://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&amp;entyId=dov73ne2cwgd88longlpxsn0hcrfn5m2aa" rel="nofollow" target="_blank" title="ä¸æµ·å·¥å"></a>
+<a class="icon footer-12377" href="http://www.12377.cn" rel="nofollow" target="_blank" title="ä¸­å½äºèç½è¿æ³åä¸è¯ä¿¡æ¯ä¸¾æ¥ä¸­å¿"></a>
+<a class="icon footer-yhjb" href="http://report.12377.cn:13225/toreportinputNormal_anis.do" rel="nofollow" target="_blank" title="ä¸æµ·å¸äºèç½è¿æ³åä¸è¯ä¿¡æ¯ä¸¾æ¥ä¸­å¿"></a>
+</div>
+</div>
+<script>
+    if(document.all && !window.XMLHttpRequest){
+        $(".qrli").hover(function(){
+            $(".icon_qr",this).show();
+        },function(){
+            $(".icon_qr",this).hide();
+        });
+    }
+</script></div>
+<script src="http://emres.dfcfw.com/public/js/topnav.js" type="text/javascript"></script>
+<script>_cpyno = "c1"</script>
+<script type="text/javascript">window.adDataType = "quote"; window.adSwitch = "both"; window.fixedBodyWidth = 1000;</script>
+<script src="http://gbfek.dfcfw.com/tg/EMBottomSearchTG/EMBottomSearchTG-1.0.3.min.js"></script>
+<script type="text/javascript">
+    var newEMBottomSearchTG = new EMBottomSearchTG({
+        main_img: 'http://z1.dfcfw.com/2015/6/10/201506101028421204226569.jpg', //æ¨å¹¿å¾ç  imgurl
+        link: 'http://stattg.eastmoney.com/10266' //æ¨å¹¿é¾æ¥  aurl
+    });
+    newEMBottomSearchTG.show();
+</script>
+<script charset="utf-8" type="text/javascript">
+    var kLine = {}; kLine.stockCode = "000001"; kLine.stockMarket = "1"; stockcode = 'zssh000001';
+	var _gglist = '000001.1.ä¸è¯ææ°.1';
+</script>
+<script src="http://hqres.eastmoney.com/EM15AGIndex/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script src="http://hqres.eastmoney.com/EM15AGIndex/js/quote-min.js?v=20190620" type="text/javascript"></script>
+<script src="http://hqres.eastmoney.com/EM15AGIndex/js/flash-min.js?v=2019061701" type="text/javascript"></script>
+<script src="http://hqres.eastmoney.com/EM15AGIndex/js/fucs-min.js?v=2019061701" type="text/javascript"></script>
+<script src="http://hqres.eastmoney.com/EM15AGIndex/js/data-min.js?v=2019061701" type="text/javascript"></script>
+<script src="http://hqres.eastmoney.com/EM15AGIndex/js/emchart.min.js?v=2019061701" type="text/javascript"></script>
+<script src="http://hqres.eastmoney.com/EM15AGIndex/js/node-min.js" type="text/javascript"></script>
+<script src="//emcharts.dfcfw.com/suggest/stocksuggest2017.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    var reshost = "http://hqres.eastmoney.com/EM15AGIndex/";
+    var Def = new QaDefault('000001', '1', '1', 'ä¸è¯ææ°', '10', '0000011', 'SH');
+    Def.init();
+	var newsuggest = new suggest2017({ //æ°å»ºå®ä¾
+        inputid: "search_box", //åæ°é¨å
+        offset: { left: -91, top: 5 },
+        shownewtips: true,
+        newtipsoffset: { top: -4, left: 0 }
+    });
+	var cfhArtilce = [{"ArtCode":"20190622154438727200230","Title":"AIé¾å¤´äº§åæ¨è¿éé» 618éæ¯éé£","Showtime":"2019-06-23 11:30:00Z"},{"ArtCode":"20181104171441144116480","Title":"å¨æ«å½±åä¸å¨å¸åºç10å¤§æ¶æ¯(æ°è¡+ç¹è¯)","Showtime":"2019-06-23 10:42:53Z"},{"ArtCode":"20190113192558255821450","Title":"å¯è½å½±åä¸å¨Aè¡èµ°å¿çéç£æ°é»æ±æ»ï¼éææ°æèµæ¥åï¼ï¼","Showtime":"2019-06-23 10:04:10Z"},{"ArtCode":"20190621181515228021630","Title":"0624æçå¿è¯»","Showtime":"2019-06-23 09:14:00Z"},{"ArtCode":"20190623163950073210560","Title":"å¸åæ¿åä¸å¤§ççå³ç³»ï¼ï¼6.23ï¼","Showtime":"2019-06-23 08:39:48Z"},{"ArtCode":"20190623163849962024940","Title":"å¨ä¸å¤§çä¸æ¶¨ï¼è¿æ¯ä¸è·ï¼?ï¼6.23ï¼","Showtime":"2019-06-23 08:38:49Z"},{"ArtCode":"20190623163752009219430","Title":"7æå¿½ç¥ææ°ä¸åä¸ªè¡ï¼Aè¡èµé±çæºä¼æ¥äºï¼ä¸è¦æï¼å ä»å¹²ï¼","Showtime":"2019-06-23 08:37:52Z"},{"ArtCode":"20190623163711430017770","Title":"å·¥ä¸å¤§éº»è¡è¡æè¿ææ²¡æï¼ï¼6. 23ï¼","Showtime":"2019-06-23 08:37:04Z"},{"ArtCode":"20190623163544045324350","Title":"6ææ¶çå7æå¤§å¿é¢å¤ï¼","Showtime":"2019-06-23 08:35:43Z"},{"ArtCode":"20190623163359664372040","Title":"éç»å·å·²ç»å¹åï¼ï¼2019.6.23äºä½å±±ã","Showtime":"2019-06-23 08:34:10Z"}];
+</script>
+<script charset="utf-8" src="https://emcharts.dfcfw.com/usercollect/usercollect.min.js" type="text/javascript"></script>
+<script charset="UTF-8" src="https://bdstatics.eastmoney.com/web/prd/jump_tracker.js" type="text/javascript"></script>
+<script charset="utf-8" src="http://emcharts.dfcfw.com/newsts/newsts.min.js" type="text/javascript"></script>
+</body></html>
