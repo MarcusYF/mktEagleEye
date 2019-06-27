@@ -2,6 +2,7 @@ import requests, time, os, xlwt, xlrd, random, pandas as pd
 import itertools
 from bs4 import BeautifulSoup
 
+import os,sys
 
 class East(object):
     def __init__(self, code):
@@ -12,12 +13,13 @@ class East(object):
         self.tableName = ""
         self.Data = []
         self.Date = time.strftime('%Y%m%d')
-        self.root = '/Users/yaofan29597/Desktop/project/mktEagleEye/'
-        self.Record = self.root + 'HistoryData_' + str(code) + '.xls'
+        self.root = sys.path[0]
+        self.Record = self.root + '/HistoryData_' + str(code) + '.xls'
         print(self.Record)
         if os.path.exists(self.Record):
             print('Record exist...')
         else:
+            print('execute path:', sys.path[0])
             print('Get data ...')
             self.get_data()
             self.write_excel()
@@ -66,8 +68,8 @@ class East(object):
 
 def main():
     # East(162411) ## 华宝油气
-    # East(512880) ## 证券etf
-    East("000001") ## 上证指数
+    East(512880) ## 证券etf
+    # East("000001") ## 上证指数
 
 
 if __name__ == '__main__':
