@@ -1,6 +1,23 @@
 import requests, time, os, xlwt, xlrd, random, pandas as pd
 import itertools
+import threading
 from bs4 import BeautifulSoup
+
+import os,sys
+
+
+class myThread(threading.Thread):  # 继承父类threading.Thread
+    def __init__(self, threadID, name, code):
+        threading.Thread.__init__(self)
+        self.threadID = threadID
+        self.name = name
+        self.code = code
+
+    def run(self):  # 把要执行的代码写到run函数里面 线程在创建后会直接运行run函数
+        print("Starting " + self.name)
+        East(self.code)
+        print("Exiting " + self.name)
+
 
 
 class East(object):
@@ -12,12 +29,13 @@ class East(object):
         self.tableName = ""
         self.Data = []
         self.Date = time.strftime('%Y%m%d')
-        self.root = '/Users/yaofan29597/Desktop/project/mktEagleEye/'
-        self.Record = self.root + 'HistoryData_' + str(code) + '.xls'
+        self.root = sys.path[0]
+        self.Record = self.root + '/HistoryData_' + str(code) + '.xls'
         print(self.Record)
         if os.path.exists(self.Record):
             print('Record exist...')
         else:
+            print('execute path:', sys.path[0])
             print('Get data ...')
             self.get_data()
             self.write_excel()
@@ -40,7 +58,6 @@ class East(object):
         # 请求数据
         firstTouch = True
         for year, jidu in itertools.product(self.yearSpan, self.jiduSpan):
-            time.sleep(random.randint(0, 0) + random.random())  # 随机延时?.?s  以防封IP
             print('Get data from ' + str(self.code) + ', ' + str(year) + ' ,' + str(jidu) + '...')
             orihtml = requests.get(self.genUrl(year, jidu), timeout=30)
             orihtml.encoding = 'gb2312'
@@ -62,12 +79,48 @@ class East(object):
 
                     record = [div.get_text().strip('\r|\n|\t') for div in tableRecord.find_all('div')]
                     self.Data.append(record)
+            else:
+                if firstTouch:
+                    continue
+                else:
+                    break
 
+            time.sleep(random.randint(0, 5) + random.random())  # 随机延时?.?s  以防封IP
 
 def main():
     # East(162411) ## 华宝油气
     # East(512880) ## 证券etf
-    East("000001") ## 上证指数
+    # East("000001") ## 上证指数
+
+    code_map = {'上证50': 510050,
+                '沪深300': 510310,
+                '中证500': 510500,
+                '创业板': 159915,
+                '证券': 512880,
+                '券商': 512000,
+                '医药': 512010,
+                '环保': 512580,
+                '消费': 159928,
+                '军工': 512660,
+                '银行': 512800,
+                '信息': 159939,
+                '传媒': 512980,
+                '有色': 512400,
+                '房地产': 512200,
+                '工业': 512310,
+                '能源': 159945}
+
+    for code in code_map.values():
+        East(code)
+
+    # 中概互联 513050
+
+
+    # 创建新线程
+    # thread1 = myThread(1, "证券ETF", 512200)
+    # thread2 = myThread(2, "华宝油气", 162411)
+    # thread1.start()
+    # thread2.start()
 
 
 if __name__ == '__main__':

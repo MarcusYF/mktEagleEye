@@ -1,2 +1,5 @@
 *.txt
+*.xlsx
 *.xls
+*.number
+.idea
