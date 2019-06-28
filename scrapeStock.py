@@ -68,8 +68,8 @@ class East(object):
 
 def main():
     # East(162411) ## 华宝油气
-    East(512880) ## 证券etf
-    # East("000001") ## 上证指数
+    # East(512880) ## 证券etf
+    East("513050") ## 中概互联
 
 
 if __name__ == '__main__':
