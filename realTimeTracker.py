@@ -32,8 +32,8 @@ class East(object):
         print('Start tracking realtime data ...')
 
         now = datetime.datetime.now()
-        start = datetime.datetime(2019, 6, 28, 8, 59, 0, 0)
-        stop = datetime.datetime(2019, 6, 28, 15, 1, 0, 0)
+        start = datetime.datetime(2019, 7, 1, 8, 59, 0, 0)
+        stop = datetime.datetime(2019, 7, 1, 15, 1, 0, 0)
 
         self.Record = self.root \
                       + '/RealTimeData_' \
@@ -104,7 +104,7 @@ class East(object):
 
 def main():
     # East(162411) ## 华宝油气
-    # East(512880) ## 证券etf
+    East(512000) ## 证券etf
     # East(600519)  ## 贵州茅台
     # East("000001") ## 上证指数
 
@@ -131,7 +131,7 @@ def main():
     for k in code_map.keys():
         thread_pool.append(myThread(i, k, code_map.get(k)))
         i += 1
-    [thread.start() for thread in thread_pool]
+    # [thread.start() for thread in thread_pool]
 
     # 创建新线程
     # thread1 = myThread(1, "证券ETF", 512880)
