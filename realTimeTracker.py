@@ -32,8 +32,8 @@ class East(object):
         print('Start tracking realtime data ...')
 
         now = datetime.datetime.now()
-        start = datetime.datetime(2019, 7, 1, 8, 59, 0, 0)
-        stop = datetime.datetime(2019, 7, 1, 15, 1, 0, 0)
+        start = datetime.datetime(2019, 7, 3, 8, 59, 0, 0)
+        stop = datetime.datetime(2019, 7, 3, 15, 1, 0, 0)
 
         self.Record = self.root \
                       + '/RealTimeData_' \
@@ -104,7 +104,7 @@ class East(object):
 
 def main():
     # East(162411) ## 华宝油气
-    East(512000) ## 证券etf
+    East(510500) ## 证券etf
     # East(600519)  ## 贵州茅台
     # East("000001") ## 上证指数
 
